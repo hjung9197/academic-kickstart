@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD Candidate in Finance
     institution: Stern School of Business, New York University
-    year: 2012
+    year:  
 
 
 
