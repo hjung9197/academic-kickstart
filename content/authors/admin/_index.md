@@ -13,9 +13,9 @@ superuser: true
 # role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-- name: Stern School of Business, New York University
-  url: ""
+# organizations:
+# - name: ""
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include  
@@ -27,7 +27,9 @@ education:
   courses:
   - course: PhD Candidate in Finance
     institution: Stern School of Business, New York University
-    year:  
+    year: 
+    
+contact:
 
 
 
