@@ -3,9 +3,18 @@ widget = "awesome"  # The name of the widget that you created.
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear in.
-[background]
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
   # Background color.
-  color = "navy"
+  # color = "navy"
+  
+  # Background gradient.
+  gradient_start = "#4bb4e3"
+  gradient_end = "#2b94c3"
 +++
 
 ## Course Instructor
