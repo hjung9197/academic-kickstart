@@ -15,12 +15,12 @@
 
 [[main]]
   name = "TEACHING"
-  url = "/teaching"
+  url = "teaching/"
   weight = 30
 
 [[main]]
   name = "CV"
-  url = "/cv"
+  url = "cv/"
   weight = 40
   
 
