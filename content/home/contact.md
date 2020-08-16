@@ -22,6 +22,6 @@ email_form = 0
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
   
 [design.spacing]
-  padding = ["10px", "0", "10px", "0"]
+  padding = ["20px", "0", "20px", "0"]
 +++
 
