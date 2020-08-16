@@ -13,8 +13,11 @@ weight = 1  # Order that this section will appear in.
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
+  
+[design.background] 
+  padding = ["10px", "0", "10px", "0"]
 +++
 
 ## Course Instructor
