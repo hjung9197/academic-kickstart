@@ -17,7 +17,7 @@ weight = 1  # Order that this section will appear in.
   # gradient_end = "#2b94c3"
   
 [design.spacing]
-  padding = ["10px", "0", "10px", "0"]
+  padding = ["15px", "0", "15px", "0"]
 +++
 
 ## Course Instructor
