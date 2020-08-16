@@ -16,7 +16,7 @@ weight = 1  # Order that this section will appear in.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#2b94c3"
   
-[design.background] 
+[design.spacing]
   padding = ["10px", "0", "10px", "0"]
 +++
 
