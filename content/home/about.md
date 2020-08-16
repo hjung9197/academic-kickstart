@@ -11,4 +11,7 @@ title = "Hyeyoon Jung"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+[design.spacing]
+  padding = ["15px", "0", "15px", "0"]
 +++
