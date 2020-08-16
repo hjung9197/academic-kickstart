@@ -10,6 +10,9 @@ Teaching
 #### **Foundations of Finance (Undergraduate)** | Summer 2018
 ##### Overall Evaluation: 5.0 / 5.0
 
+
+
 ## Teaching Fellow
-#### **Volatility (MBA)** | January 2020
-##### Professor Robert Engle
+**Volatility (MBA)** | January 2020
+
+**Financial Econometrics (Ph.D.)** | Spring 2017
