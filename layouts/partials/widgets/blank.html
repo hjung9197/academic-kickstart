@@ -1,6 +1,6 @@
 
 {{ $st := .page }}
-{{ $columns := $st.Params.design.columns | default "2" }}
+{{ $columns := $st.Params.design.columns | default "1" }}
 
 <div class="row">
   {{ if ne $columns "1" }}
