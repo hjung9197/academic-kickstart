@@ -9,9 +9,9 @@ weight = 2  # Order that this section will appear in.
 
 +++
 ## Teaching Fellow
-#### Volatility (MBA) | January 2020
+#### Volatility [(MBA)](#) | January 2020
 Professor Robert Engle
 
-#### Financial Econometrics (Ph.D.) | Spring 2017
+#### Financial Econometrics [(Ph.D.)](#) | Spring 2017
 Professor Robert Engle
 
