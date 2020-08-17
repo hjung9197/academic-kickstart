@@ -13,22 +13,13 @@ weight = 2  # Order that this section will appear in.
 Professor Robert Engle<br/><br/>
 
 **Financial Econometrics (Ph.D.)** | Spring 2017  
-Professor Robert Engle    
-
-
-
+Professor Robert Engle<br/><br/>    
 
 **Principles of Securities Trading (Undergraduate)** | Spring & Fall 2017, 2018, Fall 2020  
-Professor Joel Hasbrouck    
-
-
-
+Professor Joel Hasbrouck<br/><br/>    
 
 **Investments (eMBA)** | Fall 2019  
-Professor Anthony Lynch    
-
-
-
+Professor Anthony Lynch<br/><br/>    
 
 **Foundations of Finance (MBA)** | Summer 2017, 2018, 2019  
 Professor Anthony Lynch
