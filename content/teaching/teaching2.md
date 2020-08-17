@@ -9,18 +9,18 @@ weight = 2  # Order that this section will appear in.
 
 +++
 ## Teaching Fellow
-#### Volatility (MBA) | January 2020
+**Volatility (MBA)** | January 2020  
 Professor Robert Engle
 
-#### Financial Econometrics (Ph.D.) | Spring 2017
+**Financial Econometrics (Ph.D.)** | Spring 2017
 Professor Robert Engle
 
-#### Principles of Securities Trading (Undergraduate) | Spring & Fall 2017, 2018, Fall 2020
+**Principles of Securities Trading (Undergraduate)** | Spring & Fall 2017, 2018, Fall 2020  
 Professor Joel Hasbrouck
 
-#### Investments (eMBA) | Fall 2019
+**Investments (eMBA)** | Fall 2019  
 Professor Anthony Lynch
 
-#### Foundations of Finance (MBA) | Summer 2017, 2018, 2019
+**Foundations of Finance (MBA)** | Summer 2017, 2018, 2019  
 Professor Anthony Lynch
 
