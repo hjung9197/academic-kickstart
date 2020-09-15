@@ -24,6 +24,6 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 
-## Understanding the Onshore versus Offshore Forward Rate Basis: The Role of FX Position Limits and Margin Constraints
+**Understanding the Onshore versus Offshore Forward Rate Basis: The Role of FX Position Limits and Margin Constraints**
 
-## Climate Stress Testing
+**Climate Stress Testing** (with Robert Engle)
