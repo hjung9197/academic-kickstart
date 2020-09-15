@@ -25,4 +25,4 @@ weight = 1  # Order that this section will appear in.
 Overall Evaluation: **5.0** / 5.0  
 _Awarded Commendation for Teaching Excellence_
 
-{{% staticref "files/Syllabus_2018_HJ.pdf" "newtab" %}}**Syllabus**{{% /staticref %}} | {{% staticref "files/TeachingEval_HJ.pdf" "newtab" %}}**Teaching Evaluation**{{% /staticref %}}
+{{% staticref "files/Syllabus_2018_HJ.pdf" "newtab" %}}Syllabus{{% /staticref %}} | {{% staticref "files/TeachingEval_HJ.pdf" "newtab" %}}Teaching Evaluation{{% /staticref %}}
