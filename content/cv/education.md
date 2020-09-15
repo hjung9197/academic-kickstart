@@ -20,7 +20,7 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## Education
+## **Education**
 **New York University, Stern School of Business**, New York, NY | 2015- Current  
 Ph.D. in Finance Candidate  
 M.Phil in Finance (2019) 
