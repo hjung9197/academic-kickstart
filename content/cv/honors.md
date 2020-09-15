@@ -20,7 +20,7 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## Honors
+## **Honors**
 PhD Research Grant, Center for Global Economy and Business, NYU Stern (2020)  
 AFA PhD Student Travel Grant (2020)  
 Jules Bogen Fellowship (2019-2020)  
