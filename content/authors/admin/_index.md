@@ -67,4 +67,6 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in Finance at NYU Stern.
+I am a Ph.D. candidate in Finance at NYU Stern. My primary research interests are on understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
+Here is my CV and Job Market Paper: The Real Consequences of Macroprudential FX Regulations: Evidence from an Emerging Market.
+Prior to NYU, I was FX & Rates trader at JP Morgan. I earned B.S. in Economics and B.AS ​from University of Pennsylvania where I graduated magna cum laude.
