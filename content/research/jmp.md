@@ -19,9 +19,9 @@ weight = 1  # Order that this section will appear in.
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"  
-  font_size_max = 0.8
+  font_size_max = 0.5
 [design.spacing]
-  padding = ["40px", "0", "40px", "0"]
+  padding = ["40px", "2px", "40px", "2px"]
 +++
 
 ## The Real Consequences of Macroprudential Regulations: Evidence from an Emerging Market
