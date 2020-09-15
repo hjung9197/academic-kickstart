@@ -2,10 +2,6 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "1" }}
 
-<div style="font-size: 2rem; color: blue">
-  {{ .page.Content }}
-</div>
-
 <div class="row">
   {{ if ne $columns "1" }}
     <div class="col-12 col-lg-4 section-heading">
