@@ -16,7 +16,9 @@ weight = 1  # Order that this section will appear in.
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#2b94c3"
-  
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"  
 [design.spacing]
   padding = ["40px", "0", "40px", "0"]
 +++
