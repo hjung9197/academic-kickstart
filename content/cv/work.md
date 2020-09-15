@@ -21,11 +21,11 @@ weight = 3  # Order that this section will appear in.
 +++
 
 ## Work Experience
-#J.P. Morgan#, Singapore, Singapore | 2012- 2015  
+**J.P. Morgan**, Singapore, Singapore | 2012- 2015  
 Associate, FX & Rates Trading  
 
-#J.P. Morgan#, Singapore, Singapore | 2012   
+**J.P. Morgan**, Singapore, Singapore | 2012   
 Associate, FX & Rates Trading  
 
-#Goldman Sachs#, Seoul, Korea | 2011   
+**Goldman Sachs**, Seoul, Korea | 2011   
 Summer Analyst, Fixed Income Currency & Commodities
