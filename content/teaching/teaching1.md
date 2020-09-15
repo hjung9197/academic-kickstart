@@ -20,7 +20,7 @@ weight = 1  # Order that this section will appear in.
 [design.spacing]
   padding = ["40px", "0", "40px", "0"]
 +++
-## Course Instructor  
+## **Course Instructor**  
 **Foundations of Finance (Undergraduate)** | Summer 2018  
 Overall Evaluation: **5.0** / 5.0  
 _Awarded Commendation for Teaching Excellence_
