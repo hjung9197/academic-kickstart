@@ -67,7 +67,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in Finance at NYU Stern. My primary research interests are on understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
+I am a Ph.D. candidate in Finance at NYU Stern. My primary research interests regard understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
 
 
 Here is my CV and Job Market Paper: The Real Consequences of Macroprudential FX Regulations: Evidence from an Emerging Market.
