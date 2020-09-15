@@ -27,7 +27,7 @@ weight = 2  # Order that this section will appear in.
 **Understanding the Onshore versus Offshore Forward Rate Basis: The Role of FX Position Limits and Margin Constraints**  
 {{% staticref "files/HJ_Poster.pdf" "newtab" %}}Poster{{% /staticref %}} (presented at AFA) | _Draft available on request_  
 During the financial crisis of 2007--2009, the difference between the exchange rate for locally traded (onshore) forward contracts and that of contracts with the same maturity traded outside the jurisdiction of countries (offshore) increased significantly, though the magnitudes varied across currencies. With a model in which financial intermediaries face foreign exchange net position limits and margin requirements, this paper explains the time-series and cross-sectional variation in those price gaps (bases). Within the time-series variation, the magnitude of the bases increases with the shadow cost of the position limit, identified by the interest rate spread between onshore and offshore funding rates. In the cross-sectional variation, the magnitude of bases increases with country-specific position limits and the shadow cost of position limit constraints. I find empirical evidence consistent with the predictions of my model, particularly in the countries with tight position limits.  
-<br/><br/>   
+<br/> 
 
 **Climate Stress Testing** (with Robert Engle)  
 _Draft coming soon_  
