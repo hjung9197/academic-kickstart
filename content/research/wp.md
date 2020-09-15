@@ -19,7 +19,7 @@ weight = 2  # Order that this section will appear in.
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"  
-  font_size_max = 0.5
+  font_size_max = 0.3
 [design.spacing]
   padding = ["40px", "2px", "40px", "2px"]
 +++
