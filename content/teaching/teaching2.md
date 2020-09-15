@@ -8,7 +8,7 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 
 +++
-### Teaching Fellow  
+## **Teaching Fellow**  
 **Volatility (MBA)**  | January 2020  
 Professor Robert Engle<br/><br/>
 
