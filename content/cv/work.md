@@ -20,7 +20,7 @@ weight = 3  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## Work Experience
+## **Work Experience**
 **J.P. Morgan**, Singapore, Singapore | 2012- 2015  
 Associate, FX & Rates Trading  
 
