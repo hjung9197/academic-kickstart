@@ -23,6 +23,10 @@ weight = 3  # Order that this section will appear in.
 [design.spacing]
   padding = ["40px", "2px", "40px", "2px"]
 +++
+**Climate Stress Testing** (with Robert Engle)  
+_Draft coming soon_  
+Climate change could lead to a systemic risk to the financial sector in the process of an economy transitioning to less carbon-intensive environment. We develop a stress testing procedure to test the resilience of financial institutions to climate-related risks. The procedure involves three steps. The first step is to measure the climate risk factor by using stranded asset portfolio returns. The second step is to estimate time-varying climate beta of financial institutions using Dynamic Conditional Beta (DCB) model. The third step is to compute the systemic climate risk (CRISK), the capital shortfall of financial institutions in a climate stress scenario. This step is based on the same methodology as SRISK, but the climate factor is added as the second factor. We use this procedure to study large banks in the U.S. and the U.K. in the recent collapse in fossil-fuel prices. 
+
 
 **Estimating SRISK for Emerging Markets** (with Robert Engle and Philipp Schnabl)  
 The expected capital shortfall of a financial entity conditional on a prolonged market decline, SRISK measure of Brownlees and Engle (2016), is a useful monitor of financial fragility. The key challenge in applying SRISK is that it requires data on the market value of firm equity.  However, many of the major financial institutions in Latin America and China are not publicly listed and therefore do not have market data on firm equity. To get a full picture of financial fragility, it is crucial to estimate SRISK for unlisted firms as well. To this end, we estimate SRISK for unlisted Latin American and Chinese financial institutions by examining the relation between accounting data and market data for listed banks and then applying the same relation to unlisted firms.  
