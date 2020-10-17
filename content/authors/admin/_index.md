@@ -70,7 +70,7 @@ email: ""
 I am a Ph.D. candidate in Finance at NYU Stern. My research interests lie in international finance, financial intermediation and asset pricing. My primary research interests regard understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
 
 
-Here are my [**CV**](/cv)  
+Here are my {{% staticref "files/HyeyoonJung_CV.pdf" "newtab" %}}**CV**{{% /staticref %}}  
 and [**Job Market Paper**](/research): The Real Consequences of Macroprudential Regulations: Evidence from an Emerging Market.
 
 
