@@ -21,8 +21,8 @@ weight = 5  # Order that this section will appear in.
 +++
 
 ## **References**
-**Robert Engle** (Co-chair)
-**Philipp Schnabl** (Co-chair)
-**Joel Hasbrouck**
-**Ralph Koijen**
-**Alexi Savov**
+**Robert Engle** (Co-chair)  
+**Philipp Schnabl** (Co-chair)  
+**Joel Hasbrouck**  
+**Ralph Koijen**  
+**Alexi Savov**  
