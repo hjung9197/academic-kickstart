@@ -74,4 +74,4 @@ Here are my {{% staticref "files/HyeyoonJung_CV.pdf" "newtab" %}}**CV**{{% /stat
 and [**Job Market Paper**](/research): The Real Consequences of Macroprudential Regulations: Evidence from an Emerging Market.
 
 
-Prior to NYU, I worked as a FX & Rates trader at J.P. Morgan. I earned B.S. in Economics and B.AS from University of Pennsylvania where I graduated _magna cum laude_.
+Prior to NYU, I worked as an FX & Rates trader at J.P. Morgan. I earned B.S. in Economics and B.AS from University of Pennsylvania where I graduated _magna cum laude_.
