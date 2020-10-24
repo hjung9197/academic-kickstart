@@ -31,7 +31,7 @@ Climate change could lead to a systemic risk to the financial sector in the proc
 **Estimating SRISK for Emerging Markets** (with Robert Engle and Philipp Schnabl)  
 The expected capital shortfall of a financial entity conditional on a prolonged market decline, SRISK measure of Brownlees and Engle (2016), is a useful monitor of financial fragility. The key challenge in applying SRISK is that it requires data on the market value of firm equity.  However, many of the major financial institutions in Latin America and China are not publicly listed and therefore do not have market data on firm equity. To get a full picture of financial fragility, it is crucial to estimate SRISK for unlisted firms as well. To this end, we estimate SRISK for unlisted Latin American and Chinese financial institutions by examining the relation between accounting data and market data for listed banks and then applying the same relation to unlisted firms.  
 <br/>
-Presented (by coauthor) at: 53rd Colombian Banking Summit, Volatility Institute Shanghai (VINS) Conference 
+Presented (by coauthor) at: 53rd Colombian Banking Summit, Volatility Institute Shanghai Conference 
 <br/><br/>
 
 **The Cross-section of Stock Price Sensitivity to Macroeconomic News Announcements over the Business Cycle**  
