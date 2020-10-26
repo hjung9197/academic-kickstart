@@ -24,7 +24,7 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 
-**The Real Consequences of Macroprudential Regulations: Evidence from an Emerging Market**  
+**The Real Consequences of Macroprudential FX Regulations**  
 _Draft coming soon_  
 Dissertation Committee: Robert Engle (Co-chair), Philipp Schnabl (Co-chair), Ralph Koijen, Alexi Savov and Joel Hasbrouck  
 
