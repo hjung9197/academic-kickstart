@@ -28,4 +28,4 @@ M.Phil in Finance (2019)
 **University of Pennsylvania**, Philadelphia, PA  
 _Jerome Fisher Program in Management and Technology_  
 **The Wharton School** | Bachelor of Science in Economics, _Magna Cum Laude_ (2012)  
-**The School of Engineering** | Bachelor of Applied Science, _Magna Cum Laude_ (2012)
+**The School of Engineering and Applied Science** | Bachelor of Applied Science, _Magna Cum Laude_ (2012)
