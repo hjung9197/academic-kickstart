@@ -23,8 +23,9 @@ weight = 3  # Order that this section will appear in.
 [design.spacing]
   padding = ["40px", "2px", "40px", "2px"]
 +++
-**Climate Stress Testing** (with Robert Engle)  
-{{% staticref "files/CST_slides_EJ.pdf" "newtab" %}}Slides{{% /staticref %}} | _Draft coming soon_  
+
+{{% staticref "files/WP_CST_EJ.pdf" "newtab" %}} **Climate Stress Testing** {{% /staticref %}} (with Robert Engle)  
+{{% staticref "files/CST_slides_EJ.pdf" "newtab" %}}Slides{{% /staticref %}}    
 Climate change could lead to a systemic risk to the financial sector in the process of an economy transitioning to less carbon-intensive environment. We develop a stress testing procedure to test the resilience of financial institutions to climate-related risks. The procedure involves three steps. The first step is to measure the climate risk factor by using stranded asset portfolio returns. The second step is to estimate time-varying climate beta of financial institutions using Dynamic Conditional Beta (DCB) model. The third step is to compute the systemic climate risk (CRISK), the capital shortfall of financial institutions in a climate stress scenario. This step is based on the same methodology as SRISK, but the climate factor is added as the second factor. We use this procedure to study large banks in the U.S. and the U.K. in the recent collapse in fossil-fuel prices.  
 <br/>  
 
