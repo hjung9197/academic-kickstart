@@ -24,5 +24,5 @@ Professor Anthony Lynch<br/><br/>
 **Foundations of Finance (MBA)**  | Summer 2017, 2018, 2019  
 Professor Anthony Lynch<br/><br/>    
 
-**Stern Signature Project (MBA)**  | Spring 2020  
+**Stern Signature Project (MBA)**  | Spring 2021  
 Professor Robert Engle
