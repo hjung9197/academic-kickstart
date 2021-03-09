@@ -24,7 +24,7 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 
-{{% staticref "files/JMP_HJ.pdf" "newtab" %}}**The Real Consequences of Macroprudential FX Regulations** {{% /staticref %}}  
+**The Real Consequences of Macroprudential FX Regulations**(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744)  
 Dissertation Committee: Robert Engle (Co-chair), Philipp Schnabl (Co-chair), Ralph Koijen, Alexi Savov, and Joel Hasbrouck  
 
 I examine the real effects of macroprudential foreign exchange (FX) regulations designed to reduce risk-taking by financial intermediaries. I exploit a natural experiment in South Korea at the bank-level that can be traced through firms. The regulation limits the banks' ratio of FX derivatives positions to capital. By using cross-bank variation in the tightness of the regulation, I show that the regulation causes a reduction in the supply of FX derivatives. Controlling for hedging demand, I find that exporting firms reduce hedging with constrained banks by 47% relative to unconstrained banks. Further, I show that the reduction in the banks' supply of hedging instruments results in a substantial decline in firm exports. For a one-standard-deviation increase in a firm's exposure to the regulation shock transmitted by banks, exports fall by 17.1% for high-hedge firms and rise by 5.7% for low-hedge firms, resulting in a differential effect of 22.8%. Collectively, my results provide causal evidence that regulations aiming to curtail risk-taking behaviors of financial intermediaries can affect the real side of the economy.   
