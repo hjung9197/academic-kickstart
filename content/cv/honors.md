@@ -21,6 +21,7 @@ weight = 3  # Order that this section will appear in.
 +++
 
 ## **Honors**
+Research Grant, Inter-American Development Bank and Volatility and Risk Institute, NYU Stern (2021)  
 PhD Research Grant, Center for Global Economy and Business, NYU Stern (2020)  
 AFA PhD Student Travel Grant (2020)  
 Jules Bogen Fellowship (2019-2020)   
