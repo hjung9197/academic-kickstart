@@ -67,7 +67,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Ph.D. candidate in Finance at NYU Stern. My research interests lie in international finance, financial intermediation, asset pricing, and climate finance. My primary research interests regard understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
+I am a Ph.D. candidate in Finance at NYU Stern and I am joining the Federal Reserve Bank of New York as a Financial Economist this summer. My research interests lie in international finance, financial intermediation, asset pricing, and climate finance. My primary research interests regard understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
 
 
 Here are my {{% staticref "files/HyeyoonJung_CV.pdf" "newtab" %}}**CV**{{% /staticref %}}  
