@@ -71,7 +71,7 @@ I am a Ph.D. candidate in Finance at NYU Stern and I am joining the Federal Rese
 
 
 Here are my {{% staticref "files/HyeyoonJung_CV.pdf" "newtab" %}}**CV**{{% /staticref %}}  
-and {{% staticref "files/JMP_HJ.pdf" "newtab" %}}**Job Market Paper**{{% /staticref %}}: The Real Consequences of Macroprudential FX Regulations.
+and {{% staticref "files/JMP_HJ.pdf" "newtab" %}}[**Job Market Paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744): The Real Consequences of Macroprudential FX Regulations.
 
 
 Prior to NYU, I worked as an FX & Rates trader at J.P. Morgan. I earned B.S. in Economics and B.AS from University of Pennsylvania where I graduated _magna cum laude_.
