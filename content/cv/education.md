@@ -21,8 +21,8 @@ weight = 2  # Order that this section will appear in.
 +++
 
 ## **Education**
-**New York University, Stern School of Business**, New York, NY | 2015- Current  
-Ph.D. in Finance Candidate  
+**New York University, Stern School of Business**, New York, NY | 2015- 2021  
+Ph.D. in Finance (2021)  
 M.Phil in Finance (2019) 
 
 **University of Pennsylvania**, Philadelphia, PA  
