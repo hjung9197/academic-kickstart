@@ -67,11 +67,10 @@ email: ""
 # - Visitors
 ---
 
-I received Ph.D. in Finance at NYU Stern and I am joining the Federal Reserve Bank of New York as a Financial Economist this summer. My research interests lie in international finance, financial intermediation, asset pricing, and climate finance. My primary research interests regard understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
+I am a Financial Economist at the Federal Reserve Bank of New York.
+My research interests lie in international finance, financial intermediation, asset pricing, and climate finance. My primary research interests regard understanding the impact of frictions in financial intermediaries on asset prices and real economies. 
+I hold a Ph.D. in Finance from NYU Stern, B.S. in Economics from UPenn Wharton, and B.AS from UPenn School of Engineering and Applied Science. Prior to graduate school, I worked as an FX & Rates trader at J.P. Morgan. 
 
 
 Here are my {{% staticref "files/HyeyoonJung_CV.pdf" "newtab" %}}**CV**{{% /staticref %}}  
 and {{% staticref "files/JMP_HJ.pdf" "newtab" %}} [**Job Market Paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744): The Real Consequences of Macroprudential FX Regulations.
-
-
-Prior to NYU, I worked as an FX & Rates trader at J.P. Morgan. I earned B.S. in Economics and B.AS from University of Pennsylvania where I graduated _magna cum laude_.
