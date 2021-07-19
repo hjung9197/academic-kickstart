@@ -20,7 +20,10 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## **Work Experience**
+## **Employment**
+**Federal Reserve Bank of New York**, New York, NY | 2021- Current  
+Financial Economist, Financial Intermediation Function  
+
 **J.P. Morgan**, Singapore, Singapore | 2012- 2015  
 Associate, FX & Rates Trading  
 
