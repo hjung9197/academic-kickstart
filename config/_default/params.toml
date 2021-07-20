@@ -162,7 +162,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "Disclaimer"}
+copyright_license = {enable = true, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "Disclaimer: This is a private website. The views expressed here are my own and do not necessarily represent those of the Federal Reserve Bank of New York or the Federal Reserve System."}
 
 # Highlight the site author (superuser) in author lists? (true/false)
 highlight_superuser = false
