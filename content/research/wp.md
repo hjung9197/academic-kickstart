@@ -35,6 +35,6 @@ Presented at: Columbia GSB Finance Ph.D. Seminar, NYU Stern
 {{% staticref "files/WP_CST_EJ.pdf" "newtab" %}} **Climate Stress Testing** {{% /staticref %}} (with Robert Engle and Richard Berner)    
 Climate change could impose systemic risks upon the financial sector, either via disruptions of economic activity resulting from the physical impacts of climate change or changes in policies as the economy transitions to a less carbon-intensive environment. We develop a stress testing procedure to test the resilience of financial institutions to climate-related risks. Specifically, we introduce a measure called CRISK, systemic climate risk, which is the expected capital shortfall of a financial institution in a climate stress scenario. We use the measure to study the climate-related risk exposure of large global banks in the collapse in fossil-fuel prices in 2020.
 <br/>  
-Presented at: 2nd Annual Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw)), EBA EAIA Seminar*, Green Swan Conference*, IFABS 2021 Oxford Conference  
+Presented at: 2nd Annual Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw)), EBA EAIA Seminar*, Green Swan Conference*, IFABS 2021 Oxford Conference, Federal Reserve Bank of New York  
 (* presented by co-author)
 <br/>
