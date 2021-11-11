@@ -1,9 +1,0 @@
-+++ widget = "blank" # The name of the widget that you created. headless = true # This file represents a page section. active = true # Activate this widget? true/false weight = 3 # Order that this section will appear in.
-
-[design.spacing] padding = ["40px", "0", "40px", "0"]
-
-+++
-
-Guest Speaker  
-Climate Finance (Undergraduate) | November 2021  
-Professor Johannes Stroebel
