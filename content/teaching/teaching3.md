@@ -4,6 +4,6 @@
 
 +++
 
-Guest Speaker
-Climate Finance (Undergraduate) | November 2021
+Guest Speaker  
+Climate Finance (Undergraduate) | November 2021  
 Professor Johannes Stroebel
