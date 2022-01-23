@@ -9,5 +9,5 @@ weight = 2  # Order that this section will appear in.
 
 +++
 ## **Guest Speaker**  
-**Climate Finance**  | Fall 2021  
+**Climate Finance** (Undergraduate) | Fall 2021  
 Professor Johannes Stroebel
