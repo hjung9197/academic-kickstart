@@ -72,6 +72,3 @@ My research interests lie in international finance, financial intermediation, as
 
 I hold a Ph.D. in Finance from NYU Stern, B.S. in Economics from UPenn Wharton, and B.AS from UPenn School of Engineering and Applied Science. Prior to graduate school, I worked as an FX & Rates trader at J.P. Morgan. 
 
-
-Here are my {{% staticref "files/HyeyoonJung_CV.pdf" "newtab" %}}**CV**{{% /staticref %}}  
-and {{% staticref "files/JMP_HJ.pdf" "newtab" %}} [**Job Market Paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744): The Real Consequences of Macroprudential FX Regulations.
