@@ -12,5 +12,5 @@ weight = 2  # Order that this section will appear in.
 **Climate Finance (Undergraduate)** | Fall 2021  
 Professor Johannes Stroebel
 
-**Credit Risk and Bankruptcy** | Spriing 2022
+**Credit Risk and Bankruptcy** | Spriing 2022  
 Professor Viral Acharya
