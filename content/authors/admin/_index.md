@@ -67,7 +67,7 @@ email: ""
 # - Visitors
 ---
 
-I am a Financial Economist at the Federal Reserve Bank of New York.
+I am a Financial Research Economist at the Federal Reserve Bank of New York.
 My research interests lie in international finance, financial intermediation, asset pricing, and climate finance. My primary research interests regard understanding the impact of frictions in financial intermediaries on asset prices and real economies.  
 
 I hold a Ph.D. in Finance from NYU Stern, B.S. in Economics from UPenn Wharton, and B.AS from UPenn School of Engineering and Applied Science. Prior to graduate school, I worked as an FX & Rates trader at J.P. Morgan. 
