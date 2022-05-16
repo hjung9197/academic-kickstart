@@ -22,7 +22,7 @@ weight = 2  # Order that this section will appear in.
 
 ## **Employment**
 **Federal Reserve Bank of New York**, New York, NY | 2021- Current  
-Financial Economist, Financial Intermediation Function  
+Financial Research Economist, Financial Intermediation Policy Research    
 
 **J.P. Morgan**, Singapore, Singapore | 2012- 2015  
 Associate, FX & Rates Trading  
