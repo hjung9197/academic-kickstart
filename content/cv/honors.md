@@ -27,5 +27,4 @@ AFA PhD Student Travel Grant (2020)
 Jules Bogen Fellowship (2019-2020)   
 NYU Stern Doctoral Fellowship (2015-2021)    
 NYU Stern Teaching Commendation (2018)    
-Wharton Undergraduate Research Award (2012)   
-Merit-based Full Scholarship for Undergraduate Studies, from Mirae Asset Park Hyeon Joo Foundation  
+Wharton Undergraduate Research Award (2012) 
