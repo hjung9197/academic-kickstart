@@ -24,7 +24,7 @@ weight = 1  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 
-[**Real Consequences of Foreign Exchange Derivatives Hedging**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949884)  
+[**Real Consequences of Foreign Exchange Derivatives Hedging**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744)  
 Dissertation Committee: Robert Engle (Co-chair), Philipp Schnabl (Co-chair), Ralph Koijen, Alexi Savov, and Joel Hasbrouck  
 
 I exploit a quasi-natural experiment in South Korea to examine the real effects of foreign exchange derivatives (FXD) hedging. By using cross-bank variation in the tightness of an FX regulation designed to discourage risk-taking by financial intermediaries, I show that the regulation caused a decline in the supply of FXD, resulting in a substantial reduction in exports, especially for small firms that relied heavily on FXD hedging. I provide a mechanism involving firms' costly external financing, as well as their costly switching of banking relationships and banks' costly equity financing, that explains the empirical findings.
