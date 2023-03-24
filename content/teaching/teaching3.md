@@ -12,5 +12,8 @@ weight = 2  # Order that this section will appear in.
 **Climate Finance (Undergraduate)** | Fall 2021  
 Professor Johannes Stroebel
 
-**Credit Risk and Bankruptcy (Undergraduate/MBA)** | Spring 2022  
+**Credit Risk and Bankruptcy (Undergraduate/MBA)** | Spring 2022, 2023 
+Professor Viral Acharya
+
+**Credit Risk (MS)** | Spring 2023 
 Professor Viral Acharya
