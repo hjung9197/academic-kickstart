@@ -49,11 +49,15 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 </font>
 <br/> 
 
-<details>
-<summary><strong>Abstract</strong></summary>
-We develop a market-based methodology to assess banks’ resilience to climate-related risks and study the climate-related risk exposure of large global banks. We introduce a new measure, CRISK, which is the expected capital shortfall of a bank in a climate stress scenario. To estimate CRISK, we construct climate risk factors and dynamically measure banks’ stock return sensitivity (that is, climate beta) to the climate risk factor. We validate the climate risk factor empirically and the climate beta estimates by using granular data on large U.S. banks’ loan portfolios. The measure is useful in quantifying banks’ climate-related risk exposure through the market risk and the credit risk channels.
-<a href="files/HJ_Poster.pdf" target="_blank">Poster</a>
-</details>
+<div>
+  <strong>Abstract</strong>
+  [<em>Click to expand</em>](#abstract-collapse)
+  <div id="abstract-collapse" style="display:none">
+    In a model with agents facing constraints heterogeneous across economies, we provide a novel explanation for an understudied yet economically significant deviation from the Law of One Price across FX forward markets. Specifically, we document a substantial divergence between the exchange rate for locally traded forward contracts and contracts with the same maturity traded outside the jurisdiction of countries during the global financial crisis, and that the magnitudes varied across currencies. The model predicts that (1) the basis increases with the shadow costs of constraints across time and increases with the country-specific FX position limit across countries;  (2) the shadow cost of each constraint non-linearly increases as the intermediary sector's relative performance declines below a threshold; and (3) higher shadow cost of the position limit predicts lower future excess return on local-currency denominated assets, as buying local assets relaxes the FX position limit constraint imposed on the intermediaries. We test the model predictions and find consistent evidence in the countries with tight position limits.
+    [<em>Click to collapse</em>](#abstract-collapse)
+    [<em>Poster</em>](/files/HJ_Poster.pdf){:target="_blank"}
+  </div>
+</div>
 <br/><br/> 
 
 {{% staticref "files/WP_CST_ABEJSZZ.pdf" "newtab" %}}**Climate Stress Testing**{{% /staticref %}}   
