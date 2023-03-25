@@ -51,7 +51,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 
 
 <details>
-<summary><strong>View Abstract  ---- {{% staticref "files/HJ_Poster.pdf" "newtab" %}}Poster{{% /staticref %}}</strong></summary>
+<summary><strong>View Abstract  <br><br><br><br><br> {{% staticref "files/HJ_Poster.pdf" "newtab" %}}Poster{{% /staticref %}}</strong></summary>
  In a model with agents facing constraints heterogeneous across economies, we provide a novel explanation for an understudied yet economically significant deviation from the Law of One Price across FX forward markets. Specifically, we document a substantial divergence between the exchange rate for locally traded forward contracts and contracts with the same maturity traded outside the jurisdiction of countries during the global financial crisis, and that the magnitudes varied across currencies. The model predicts that (1) the basis increases with the shadow costs of constraints across time and increases with the country-specific FX position limit across countries;  (2) the shadow cost of each constraint non-linearly increases as the intermediary sector's relative performance declines below a threshold; and (3) higher shadow cost of the position limit predicts lower future excess return on local-currency denominated assets, as buying local assets relaxes the FX position limit constraint imposed on the intermediaries. We test the model predictions and find consistent evidence in the countries with tight position limits. 
 </details>
 
