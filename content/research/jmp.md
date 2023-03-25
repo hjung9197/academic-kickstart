@@ -24,8 +24,7 @@ NBER IFM Meeting, IMF Macro-Financial Research Conference, WEAI-IBEFA Conference
   
 <summary><strong>View Abstract</strong></summary>
   
-<font size="3">
-I show that shocks to financial intermediaries that supply hedging instruments to corporations have real effects. I exploit a quasi-natural experiment in South Korea in 2010, where regulations required banks to hold enough capital for taking positions in foreign exchange derivatives (FXD). Using the variation in exposure to this regulation across banks, I find that the regulation caused a reduction in the supply of FXD, leading to a significant decline in exports for firms that held derivatives contracts with more exposed banks. These results indicate the crucial role of intermediaries in allocating risks through the provision of derivatives and establish a causal relationship between financial hedging and real economic outcomes. </font>
+I show that shocks to financial intermediaries that supply hedging instruments to corporations have real effects. I exploit a quasi-natural experiment in South Korea in 2010, where regulations required banks to hold enough capital for taking positions in foreign exchange derivatives (FXD). Using the variation in exposure to this regulation across banks, I find that the regulation caused a reduction in the supply of FXD, leading to a significant decline in exports for firms that held derivatives contracts with more exposed banks. These results indicate the crucial role of intermediaries in allocating risks through the provision of derivatives and establish a causal relationship between financial hedging and real economic outcomes.  
   
 </details>  
 
