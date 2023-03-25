@@ -54,7 +54,7 @@ In a model with agents facing constraints heterogeneous across economies, we pro
 </details>  
 <br/><br/> 
 
-[**Climate Stress Testing**] (with Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao)  
+**Climate Stress Testing** (with Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao)  
 Prepared for the Annual Review of Financial Economics
 <details>
 <summary><strong>View Abstract</strong></summary>
