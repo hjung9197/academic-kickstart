@@ -55,7 +55,7 @@ In a model with agents facing constraints heterogeneous across economies, we pro
 <br/><br/> 
 
 **Climate Stress Testing** (with Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao)  
-Prepared for the Annual Review of Financial Economics
+<font size="3"> Prepared for the Annual Review of Financial Economics </font>
 <details>
 <summary><strong>View Abstract</strong></summary>
 We explore the design of climate stress tests to assess and manage macro-prudential risks from climate change in the financial sector. We review the climate stress scenarios currently employed by regulators, highlighting the need to (i) consider many transition risks as dynamic policy choices; (ii) better understand and incorporate feedback loops between climate change and the economy; and (iii) further explore ``compound risk" scenarios in which climate risks co-occur with other risks. We discuss how the process of mapping climate stress scenarios into financial firm outcomes can incorporate existing evidence on the effects of various climate-related risks on credit and market outcomes. We argue that more research is required to (i) identify channels through which plausible scenarios can lead to meaningful short-run impact on credit risks given typical bank loan maturities; (ii) incorporate bank-lending responses to climate risks; (iii) assess the adequacy of climate risk pricing in financial markets; and (iv) better understand and incorporate the process of expectations formation around the realizations of climate risks. Finally, we discuss the relative advantages and disadvantages of using market-based climate stress tests that can be conducted using publicly available data to complement existing stress testing frameworks.
