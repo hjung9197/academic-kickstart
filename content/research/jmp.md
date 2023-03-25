@@ -11,6 +11,13 @@ font_size_max = 0.5
 
 [design.spacing]
 padding = ["40px", "2px", "40px", "2px"]
+
+[[custom_css]]
+css = """
+.presentations {
+  font-size: 0.8em;
+}
+"""
 +++
 
 [**Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744)  
@@ -23,4 +30,6 @@ I show that shocks to financial intermediaries that supply hedging instruments t
   
 </details>
 
+<div class="presentations">
 Presentations: NBER IFM Meeting, IMF Macro-Financial Research Conference, WEAI-IBEFA Conference, HEC Paris-CEPR Conference, EFA, Bank of Korea, Australasian Finance and Banking Conference, International Risk Management Conference, Korea University, HKUST, Vanderbilt Owen, Yale SOM, Federal Reserve Bank of New York, Federal Reserve Board, Stockholm School of Economics, Federal Reserve Bank of Chicago, Warwick Business School, U of SC Darla Moore, Oxford Said, Imperial College London, HKU, Federal Reserve Board (Pre-Job Market Conference), SoFiE Seminar ([Video](https://www.youtube.com/watch?v=k2d0zeu2a5U)), NYU Stern 
+</div>
