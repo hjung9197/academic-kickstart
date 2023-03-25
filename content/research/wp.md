@@ -45,7 +45,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 <strong>Presentations </strong>  
 <font size="3">
   Australasian Finance and Banking Conference, Columbia GSB Finance Ph.D. Seminar, NYU Stern
-</font size>
+</font>
 <br/> 
 
 <details>
