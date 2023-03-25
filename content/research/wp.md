@@ -49,13 +49,11 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 </font>
 <br/> 
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-    <strong>Abstract:</strong>
-    <details>
-        <summary><strong>View</strong></summary>
-        <p>We develop a market-based methodology to assess banks’ resilience to climate-related risks and study the climate-related risk exposure of large global banks. We introduce a new measure, CRISK, which is the expected capital shortfall of a bank in a climate stress scenario. To estimate CRISK, we construct climate risk factors and dynamically measure banks’ stock return sensitivity (that is, climate beta) to the climate risk factor. We validate the climate risk factor empirically and the climate beta estimates by using granular data on large U.S. banks’ loan portfolios. The measure is useful in quantifying banks’ climate-related risk exposure through the market risk and the credit risk channels.</p>
-    </details>
-    <a href="files/HJ_Poster.pdf" target="_blank"><strong>Poster</strong></a>
+<details>
+<summary><strong>View Abstract</strong></summary>
+We develop a market-based methodology to assess banks’ resilience to climate-related risks and study the climate-related risk exposure of large global banks. We introduce a new measure, CRISK, which is the expected capital shortfall of a bank in a climate stress scenario. To estimate CRISK, we construct climate risk factors and dynamically measure banks’ stock return sensitivity (that is, climate beta) to the climate risk factor. We validate the climate risk factor empirically and the climate beta estimates by using granular data on large U.S. banks’ loan portfolios. The measure is useful in quantifying banks’ climate-related risk exposure through the market risk and the credit risk channels.</p>
+ </details>
+{{% staticref "files/Poster_HJ.pdf" "newtab" %}}**Poster (AFA)**{{% /staticref %}}       
 </div> 
 <br/><br/> 
 
