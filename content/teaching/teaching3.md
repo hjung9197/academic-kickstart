@@ -10,10 +10,10 @@ weight = 2  # Order that this section will appear in.
 +++
 ## **Guest Speaker**  
 **Climate Finance (Undergraduate)** | Fall 2021  
-Professor Johannes Stroebel
+Professor Johannes Stroebel <br/><br/>   
 
 **Credit Risk and Bankruptcy (Undergraduate/MBA)** | Spring 2022, 2023   
-Professor Viral Acharya
+Professor Viral Acharya <br/><br/>   
 
 **Credit Risk (MS)** | Spring 2023   
 Professor Viral Acharya
