@@ -28,7 +28,7 @@ weight = 2  # Order that this section will appear in.
 
 <strong>Presentations </strong>  
 <font size="3">
-AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, University of Oklahoma Energy and Climate Finance Research Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, 2nd Annual Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw))  
+AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, University of Oklahoma Energy and Climate Finance Research Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, 2nd Annual Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw))  
 (* presented by co-author)
 </font> 
 <br/>
@@ -45,7 +45,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 
 <strong>Presentations </strong>  
 <font size="3">
-System Climate Conference
+System Climate Meeting by the Federal Reserve Bank of San Francisco
 </font> 
 <br/>
 
