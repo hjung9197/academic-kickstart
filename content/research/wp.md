@@ -40,6 +40,17 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 <br/><br/>
 
 
+
+[**Climate Stress Testing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412022)  
+<font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
+<font size="3"> Prepared for the <i><u>Annual Review of Financial Economics</u></i> </font>
+<details>
+<summary><strong>View Abstract</strong></summary>
+We explore the design of climate stress tests to assess and manage macro-prudential risks from climate change in the financial sector. We review the climate stress scenarios currently employed by regulators, highlighting the need to (i) consider many transition risks as dynamic policy choices; (ii) better understand and incorporate feedback loops between climate change and the economy; and (iii) further explore "compound risk" scenarios in which climate risks co-occur with other risks. We discuss how the process of mapping climate stress scenarios into financial firm outcomes can incorporate existing evidence on the effects of various climate-related risks on credit and market outcomes. We argue that more research is required to (i) identify channels through which plausible scenarios can lead to meaningful short-run impact on credit risks given typical bank loan maturities; (ii) incorporate bank-lending responses to climate risks; (iii) assess the adequacy of climate risk pricing in financial markets; and (iv) better understand and incorporate the process of expectations formation around the realizations of climate risks. Finally, we discuss the relative advantages and disadvantages of using market-based climate stress tests that can be conducted using publicly available data to complement existing stress testing frameworks.
+</details>  
+<br/><br/>
+
+
 {{% staticref "files/WP_FwdBasis_HJ.pdf" "newtab" %}}**Deviations from the Law of One Price across Economies** {{% /staticref %}}  
 <font size="3"> Co-author: Jaehoon (Kyle) Jung </font>    
 
@@ -54,16 +65,4 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 <summary><strong>View Abstract &nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/HJ_Poster.pdf" "newtab" %}}AFA Poster{{% /staticref %}}</strong></summary>
  In a model with agents facing constraints heterogeneous across economies, we provide a novel explanation for an understudied yet economically significant deviation from the Law of One Price across FX forward markets. Specifically, we document a substantial divergence between the exchange rate for locally traded forward contracts and contracts with the same maturity traded outside the jurisdiction of countries during the global financial crisis, and that the magnitudes varied across currencies. The model predicts that (1) the basis increases with the shadow costs of constraints across time and increases with the country-specific FX position limit across countries;  (2) the shadow cost of each constraint non-linearly increases as the intermediary sector's relative performance declines below a threshold; and (3) higher shadow cost of the position limit predicts lower future excess return on local-currency denominated assets, as buying local assets relaxes the FX position limit constraint imposed on the intermediaries. We test the model predictions and find consistent evidence in the countries with tight position limits. 
 </details>
-
-
-
-<br/><br/> 
-
-[**Climate Stress Testing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412022)  
-<font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
-<font size="3"> Prepared for the <i><u>Annual Review of Financial Economics</u></i> </font>
-<details>
-<summary><strong>View Abstract</strong></summary>
-We explore the design of climate stress tests to assess and manage macro-prudential risks from climate change in the financial sector. We review the climate stress scenarios currently employed by regulators, highlighting the need to (i) consider many transition risks as dynamic policy choices; (ii) better understand and incorporate feedback loops between climate change and the economy; and (iii) further explore "compound risk" scenarios in which climate risks co-occur with other risks. We discuss how the process of mapping climate stress scenarios into financial firm outcomes can incorporate existing evidence on the effects of various climate-related risks on credit and market outcomes. We argue that more research is required to (i) identify channels through which plausible scenarios can lead to meaningful short-run impact on credit risks given typical bank loan maturities; (ii) incorporate bank-lending responses to climate risks; (iii) assess the adequacy of climate risk pricing in financial markets; and (iv) better understand and incorporate the process of expectations formation around the realizations of climate risks. Finally, we discuss the relative advantages and disadvantages of using market-based climate stress tests that can be conducted using publicly available data to complement existing stress testing frameworks.
-</details>  
 <br/><br/>
