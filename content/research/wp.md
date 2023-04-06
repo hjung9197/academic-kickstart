@@ -46,7 +46,6 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 <strong>Presentations </strong>  
 <font size="3">
 System Climate Conference
-(* presented by co-author)
 </font> 
 <br/>
 
