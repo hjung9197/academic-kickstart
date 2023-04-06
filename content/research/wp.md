@@ -59,7 +59,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 
 <br/><br/> 
 
-{{% staticref "files/WP_CST_ABEJSZZ.pdf" "newtab" %}}**Climate Stress Testing**{{% /staticref %}}   
+[**Climate Stress Testing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412022)  
 <font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
 <font size="3"> Prepared for the <i><u>Annual Review of Financial Economics</u></i> </font>
 <details>
