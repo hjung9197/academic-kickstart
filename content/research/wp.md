@@ -45,7 +45,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 
 <strong>Presentations </strong>  
 <font size="3">
-System Climate Meeting by the Federal Reserve Bank of San Francisco
+Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco
 </font> 
 <br/>
 
@@ -71,7 +71,7 @@ We explore the design of climate stress tests to assess and manage macro-prudent
 
 <strong>Presentations </strong>  
 <font size="3">
-  Australasian Finance and Banking Conference, Columbia GSB Finance Ph.D. Seminar, NYU Stern
+  Australasian Finance and Banking Conference*, Columbia GSB Finance Ph.D. Seminar, NYU Stern
 </font>
 <br/> 
 
