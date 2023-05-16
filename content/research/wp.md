@@ -24,7 +24,7 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "2px", "40px", "2px"]
 +++
 [**CRISK: Measuring the Climate Risk Exposure of the Financial System**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931516)  
-<font size="3"> Co-authors: Robert Engle and Richard Berner </font> 
+<font size="3"> Co-authors: Robert Engle and Richard Berner </font>   
 <font size="3"> R&R at <i><u>Journal of Financial Economics (JFE)</u></i> </font>
 
 <strong>Presentations </strong>  
