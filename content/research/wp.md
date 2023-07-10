@@ -51,7 +51,7 @@ Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserv
 <br/>
 
 <details>
-<summary><strong>View Abstract</strong></summary>
+<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/07/how-exposed-are-u-s-banks-loan-portfolios-to-climate-transition-risks/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
 We build on the estimated sectoral effects of climate transition policies from the general equilibrium models of Jorgenson et al. (2018), Goulder and Hafstead (2018), and NGFS (2022a) to investigate U.S. banks’ exposures to transition risks. Our results show that while banks’ exposures are meaningful, they are manageable. Exposures vary by model and policy scenario with the largest estimates coming from the NGFS (2022a) disorderly transition scenario, where the average bank exposure reaches 9 percent as of 2022. Banks’ exposures increase with the stringency of a carbon tax policy but tend to benefit from a corporate or capital tax cut redistribution policy relative to a lump sum dividend. Also, banks’ exposures increase, although not dramatically in stress scenarios. For example, according to Jorgenson et al. (2018), banks’ exposures range from 0.5—3.5 percent as of 2022. Assuming that loans to industries in the top two deciles most affected by the transition policy lose their entire value, banks’ exposures would increase to 12—14 percent. Finally, there is a downward trend in banks’ exposures to the riskiest industries, which appears to be at least in part due to banks gradually reducing funding to these industries.
 </details>  
 <br/><br/>
