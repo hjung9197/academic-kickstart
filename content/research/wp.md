@@ -66,7 +66,7 @@ Insurance companies can be exposed to climate-related physical risk through thei
 <font size="3">
   FHFA Econ Summit, System Banking Conference by the Federal Reserve Board
 </font>
-<br/><br/>
+<br/><br/><br/>
 
 
 [**Climate Stress Testing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412022)  
@@ -80,7 +80,7 @@ We explore the design of climate stress tests to assess and manage macro-prudent
 <font size="3">
   Indian Institute of Management Ahmedabad, Central Bank of Brazil, IMF, ECB
 </font>
-<br/><br/>
+<br/><br/><br/>  
 
 
 {{% staticref "files/WP_FwdBasis_HJ.pdf" "newtab" %}}**Deviations from the Law of One Price across Economies** {{% /staticref %}}  
