@@ -59,7 +59,7 @@ We build on the estimated sectoral effects of climate transition policies from t
 [**Measuring the Climate Risk Exposure of Insurers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
 <font size="3"> Co-authors: Robert Engle, Shan Ge, and Xuran Zeng </font>  
 
-<strong>Presentations </strong> </br>     
+<strong>Presentations </strong>    
 <font size="3">
   FHFA Econ Summit, System Banking Conference by the Federal Reserve Board
 </font>
@@ -75,7 +75,7 @@ Insurance companies can be exposed to climate-related physical risk through thei
 [**Climate Stress Testing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412022)  
 <font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
 
-<strong>Presentations </strong> </br>     
+<strong>Presentations </strong>    
 <font size="3">
   Indian Institute of Management Ahmedabad, Central Bank of Brazil, IMF, ECB
 </font>
