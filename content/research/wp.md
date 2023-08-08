@@ -58,29 +58,35 @@ We build on the estimated sectoral effects of climate transition policies from t
 
 [**Measuring the Climate Risk Exposure of Insurers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
 <font size="3"> Co-authors: Robert Engle, Shan Ge, and Xuran Zeng </font>  
-<details>
-<summary><strong>View Abstract</strong></summary>
-Insurance companies can be exposed to climate-related physical risk through their operations and to transition risk through their $12 trillion of financial asset holdings. We assess the climate risk exposure of property and casualty (P&C) and life insurance companies in the U.S. We construct a novel physical risk factor by forming a portfolio of P&C insurers’ stocks, with each insurer’s weight reflecting their operational exposure to states associated with high physical climate risk. We then estimate the dynamic physical climate beta, representing the stock return sensitivity of each insurer to the physical risk factor. In addition, using the climate beta estimates introduced by Jung et al. (2021), we calculate the expected capital shortfall of insurers under various climate stress scenarios. We validate our approach by utilizing granular data on insurers’ asset holdings and state-level operational exposure. Our findings indicate a positive association between larger exposures to risky states and higher holdings of brown assets with higher sensitivity to physical and transition risk, respectively.
-</details>  
+
 <strong>Presentations </strong> </br>     
 <font size="3">
   FHFA Econ Summit, System Banking Conference by the Federal Reserve Board
 </font>
-<br/><br/><br/>
+</br>
+
+<details>
+<summary><strong>View Abstract</strong></summary>
+Insurance companies can be exposed to climate-related physical risk through their operations and to transition risk through their $12 trillion of financial asset holdings. We assess the climate risk exposure of property and casualty (P&C) and life insurance companies in the U.S. We construct a novel physical risk factor by forming a portfolio of P&C insurers’ stocks, with each insurer’s weight reflecting their operational exposure to states associated with high physical climate risk. We then estimate the dynamic physical climate beta, representing the stock return sensitivity of each insurer to the physical risk factor. In addition, using the climate beta estimates introduced by Jung et al. (2021), we calculate the expected capital shortfall of insurers under various climate stress scenarios. We validate our approach by utilizing granular data on insurers’ asset holdings and state-level operational exposure. Our findings indicate a positive association between larger exposures to risky states and higher holdings of brown assets with higher sensitivity to physical and transition risk, respectively.
+</details>  
+<br/><br/> 
 
 
 [**Climate Stress Testing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412022)  
 <font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
+
+<strong>Presentations </strong> </br>     
+<font size="3">
+  Indian Institute of Management Ahmedabad, Central Bank of Brazil, IMF, ECB
+</font>
+</br>
+
 **<font size="3"> Prepared for the <i><u>Annual Review of Financial Economics</u></i> </font>**
 <details>
 <summary><strong>View Abstract</strong></summary>
 We explore the design of climate stress tests to assess and manage macro-prudential risks from climate change in the financial sector. We review the climate stress scenarios currently employed by regulators, highlighting the need to (i) consider many transition risks as dynamic policy choices; (ii) better understand and incorporate feedback loops between climate change and the economy; and (iii) further explore "compound risk" scenarios in which climate risks co-occur with other risks. We discuss how the process of mapping climate stress scenarios into financial firm outcomes can incorporate existing evidence on the effects of various climate-related risks on credit and market outcomes. We argue that more research is required to (i) identify channels through which plausible scenarios can lead to meaningful short-run impact on credit risks given typical bank loan maturities; (ii) incorporate bank-lending responses to climate risks; (iii) assess the adequacy of climate risk pricing in financial markets; and (iv) better understand and incorporate the process of expectations formation around the realizations of climate risks. Finally, we discuss the relative advantages and disadvantages of using market-based climate stress tests that can be conducted using publicly available data to complement existing stress testing frameworks.
 </details>  
-<strong>Presentations </strong> </br>     
-<font size="3">
-  Indian Institute of Management Ahmedabad, Central Bank of Brazil, IMF, ECB
-</font>
-<br/><br/><br/>  
+<br/><br/>   
 
 
 {{% staticref "files/WP_FwdBasis_HJ.pdf" "newtab" %}}**Deviations from the Law of One Price across Economies** {{% /staticref %}}  
