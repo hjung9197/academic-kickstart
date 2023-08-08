@@ -77,7 +77,7 @@ Insurance companies can be exposed to climate-related physical risk through thei
 
 <strong>Presentations </strong>    
 <font size="3">
-  Indian Institute of Management Ahmedabad, Central Bank of Brazil, IMF, ECB
+  Indian Institute of Management Ahmedabad, Central Bank of Brazil, European Central Bank, IMF
 </font>
 </br>
 
