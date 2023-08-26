@@ -14,6 +14,7 @@ padding = ["40px", "2px", "40px", "2px"]
 +++
 
 [**Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744)  
+**<font size="3"> R&R at <i><u>Review of Financial Studies (RFS)</u></i> </font>**  
 <font size="3">
 Dissertation Committee: Robert Engle (Co-chair), Philipp Schnabl (Co-chair), Ralph Koijen, Alexi Savov, and Joel Hasbrouck </font> 
 
