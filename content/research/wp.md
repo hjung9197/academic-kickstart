@@ -45,7 +45,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 
 <strong>Presentations </strong>  
 <font size="3">
-Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association
+Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association, Federal Reserve Board
 </font> 
 <br/>
 
