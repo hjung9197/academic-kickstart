@@ -61,7 +61,7 @@ We build on the estimated sectoral effects of climate transition policies from t
 
 <strong>Presentations </strong>    
 <font size="3">
-  FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference, Greater New York Finance Women Symposium*, Midwest Finance Association Meeting
+  FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference, Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*
 </font>
 </br>
 
