@@ -20,7 +20,8 @@ weight = 4  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## **Honors**
+## **Honors**  
+Berkeley Haas Sustainability Research Prize Finalist (2023)  
 Research Grant (Award # 2218455), National Science Foundation (2022)  
 Research Grant, Inter-American Development Bank and Volatility and Risk Institute, NYU Stern (2021)  
 PhD Research Grant, Center for Global Economy and Business, NYU Stern (2020)  
