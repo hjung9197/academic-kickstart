@@ -62,7 +62,7 @@ We find that banks' credit exposures to transition risks are modest. We build on
 
 <strong>Presentations </strong>    
 <font size="3">
-  FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, CESifo Conference on Energy and Climate Economics
+  FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference
   </font>
 </br>
 
