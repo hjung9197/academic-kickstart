@@ -67,7 +67,7 @@ We find that banks' credit exposures to transition risks are modest. We build on
 </br>
 
 <details>
-<summary><strong>View Abstract</strong></summary>
+<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2024/04/physical-climate-risk-and-insurers/" style="color: rgb(15, 92, 214);">Blog</strong></summary>
 Insurance companies can be exposed to climate-related physical risk through their operations and to transition risk through their $12 trillion of financial asset holdings. We assess the climate risk exposure of property and casualty (P&C) and life insurance companies in the U.S. We construct a novel physical risk factor by forming a portfolio of P&C insurers’ stocks, with each insurer’s weight reflecting their operational exposure to states associated with high physical climate risk. We then estimate the dynamic physical climate beta, representing the stock return sensitivity of each insurer to the physical risk factor. In addition, using the climate beta estimates introduced by Jung et al. (2021), we calculate the expected capital shortfall of insurers under various climate stress scenarios. We validate our approach by utilizing granular data on insurers’ asset holdings and state-level operational exposure. Our findings indicate a positive association between larger exposures to risky states and higher holdings of brown assets with higher sensitivity to physical and transition risk, respectively.
 </details>  
 <br/><br/> 
