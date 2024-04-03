@@ -21,6 +21,6 @@ Professor Viral Acharya <br/><br/>
 NYU Stern  
 Professor Viral Acharya <br/><br/>  
 
-**Climate Finance** | Spring 2024 
+**Climate Finance** | Spring 2024   
 Cornell Johnson    
 Professor Alissa Kleinnijenhuis
