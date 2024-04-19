@@ -17,7 +17,7 @@ Professor Johannes Stroebel <br/><br/>
 NYU Stern  
 Professor Viral Acharya <br/><br/>
 
-**Credit Risk and Bankruptcy (Undergraduate/MBA)** | Spring 2022, 2023, 2024  
+**Credit Risk and Bankruptcy (Undergraduate/MBA)** | Spring 2022, 2023   
 NYU Stern  
 Professor Viral Acharya <br/><br/>  
 
