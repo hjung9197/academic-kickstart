@@ -59,7 +59,7 @@ We find that banks' credit exposures to transition risks are modest. We build on
 
 [**Measuring the Climate Risk Exposure of Insurers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
 <font size="3"> Co-authors: Robert Engle, Shan Ge, and Xuran Zeng </font>  
-<font size="3"> Invited for <i> Review of Financial Studies </i> Dual Submission </font> 
+<font size="3"> **Invited for <i><u> Review of Financial Studies </u></i> Dual Submission** </font> 
 
 <strong>Presentations </strong>    
 <font size="3">
