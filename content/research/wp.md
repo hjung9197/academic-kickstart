@@ -30,7 +30,7 @@ weight = 2  # Order that this section will appear in.
 
 <strong>Presentations </strong>  
 <font size="3">
-AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, University of Oklahoma Energy and Climate Finance Research Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw))  
+AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, OU-RFS Climate Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw))  
 </font> 
 <br/>
 
@@ -59,10 +59,11 @@ We find that banks' credit exposures to transition risks are modest. We build on
 
 [**Measuring the Climate Risk Exposure of Insurers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
 <font size="3"> Co-authors: Robert Engle, Shan Ge, and Xuran Zeng </font>  
+<font size="3"> Invited for <i> Review of Financial Studies </i> Dual Submission </font> 
 
 <strong>Presentations </strong>    
 <font size="3">
-  FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Global Research Alliance for Sustainable Finance and Investment (GRASFI) Conference, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference            
+  FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Global Research Alliance for Sustainable Finance and Investment (GRASFI) Conference, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, OU-RFS Climate Conference              
   </font>
 </br>
 
