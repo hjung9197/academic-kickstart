@@ -23,4 +23,8 @@ Professor Viral Acharya <br/><br/>
 
 **Climate Finance** | Spring 2024   
 Cornell Johnson    
-Professor Alissa Kleinnijenhuis
+Professor Alissa Kleinnijenhuis <br/><br/>
+
+**Climate Finance** | Fall 2024   
+Stockholm School of Economics    
+Professor Ye Zhang  
