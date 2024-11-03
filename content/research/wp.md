@@ -57,19 +57,19 @@ We find that banks' credit exposures to transition risks are modest. We build on
 <br/><br/>
 
 
-[**Measuring the Climate Risk Exposure of Insurers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
+[**Physical Climate Risk Factors and an Application to Measuring Insurers’ Climate Risk Exposure**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
 <font size="3"> Co-authors: Robert Engle, Shan Ge, and Xuran Zeng </font>  
 <font size="3"> **Invited for <i><u> Review of Financial Studies </u></i> Dual Submission** </font> 
 
 <strong>Presentations </strong>    
 <font size="3">
-  FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference              
+FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference              
   </font>
 </br>
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2024/04/physical-climate-risk-and-insurers/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>  
-Insurance companies can be exposed to climate-related physical risk through their operations and to transition risk through their $12 trillion of financial asset holdings. We assess the climate risk exposure of property and casualty (P&C) and life insurance companies in the U.S. We construct a novel physical risk factor by forming a portfolio of P&C insurers’ stocks, with each insurer’s weight reflecting their operational exposure to states associated with high physical climate risk. We then estimate the dynamic physical climate beta, representing the stock return sensitivity of each insurer to the physical risk factor. In addition, using the climate beta estimates introduced by Jung et al. (2021), we calculate the expected capital shortfall of insurers under various climate stress scenarios. We validate our approach by utilizing granular data on insurers’ asset holdings and state-level operational exposure. Our findings indicate a positive association between larger exposures to risky states and higher holdings of brown assets with higher sensitivity to physical and transition risk, respectively.
+We construct a novel physical risk factor by forming a portfolio of REITs, long on those with properties more exposed to climate risk and short on those less exposed. Combined with a transition risk factor, we assess the climate risk exposure of P&C and life insurance companies in the U.S. Insurers can be exposed to climate-related physical risk through their operations and transition risk through their $12 trillion of financial asset holdings. We estimate insurers’ dynamic physical and transition climate beta, i.e. their stock return sensitivity to the physical and transition risk factors. Validating our approach, we find that insurers with larger exposures to risky states have a higher sensitivity to physical risk, while insurers holding more brown assets have a higher sensitivity to transition risk. Using the estimated betas, we calculate the expected capital shortfall of insurers under various climate stress scenarios.
 </details>  
 <br/><br/> 
 
