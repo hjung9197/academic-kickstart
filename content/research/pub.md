@@ -3,7 +3,7 @@ widget = "blank"
 title = "Publications & Forthcoming Papers"
 headless = true
 active = true
-weight = 2
+weight = 1
 
 [design]
 columns = "2"
