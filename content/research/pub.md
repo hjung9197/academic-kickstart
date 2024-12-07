@@ -14,10 +14,10 @@ padding = ["40px", "2px", "40px", "2px"]
 +++
 
 [**Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744)  
+Job Market Paper  
 **<font size="3"> Accepted at <i><u>Review of Financial Studies </u></i> </font>**    
 **<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
 <font size="3">
-Job Market Paper  
 
 <strong>Presentations </strong>  
 <font size="3">
