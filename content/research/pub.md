@@ -1,9 +1,9 @@
 +++
 widget = "blank"
-title = "Publications"
+title = "Publications & Forthcoming Papers"
 headless = true
 active = true
-weight = 1
+weight = 2
 
 [design]
 columns = "2"
