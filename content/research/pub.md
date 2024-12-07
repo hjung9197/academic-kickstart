@@ -1,6 +1,6 @@
 +++
 widget = "blank"
-title = "Job Market Paper"
+title = "Publications & Forthcoming Papers"
 headless = true
 active = true
 weight = 1
@@ -17,6 +17,7 @@ padding = ["40px", "2px", "40px", "2px"]
 **<font size="3"> Accepted at <i><u>Review of Financial Studies </u></i> </font>**    
 **<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
 <font size="3">
+Job Market Paper  
 Dissertation Committee: Robert Engle (Co-chair), Philipp Schnabl (Co-chair), Ralph Koijen, Alexi Savov, and Joel Hasbrouck </font> 
 
 <strong>Presentations </strong>  
