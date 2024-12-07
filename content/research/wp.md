@@ -1,9 +1,9 @@
 +++
 widget = "blank"
-title = "Publications & Forthcoming Papers"
+title = "Working Papers"
 headless = true
 active = true
-weight = 1
+weight = 2
 
 [design]
 columns = "2"
@@ -13,52 +13,53 @@ font_size_max = 0.5
 padding = ["40px", "2px", "40px", "2px"]
 +++
 
-[**Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3796744)  
-Job Market Paper  
-**<font size="3"> Accepted at <i><u>Review of Financial Studies </u></i> </font>**    
-**<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
-<font size="3">
+[**Physical Climate Risk Factors and an Application to Measuring Insurers’ Climate Risk Exposure**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
+<font size="3"> Co-authors: Robert Engle, Shan Ge, and Xuran Zeng </font>  
+<font size="3"> **Invited for <i><u> Review of Financial Studies </u></i> Dual Submission** </font> 
 
-<strong>Presentations </strong>  
+<strong>Presentations </strong>    
 <font size="3">
-AEA, NBER IFM Meeting, IMF Macro-Financial Research Conference, WEAI-IBEFA Conference, HEC Paris-CEPR Conference, EFA, Bank of Korea, Australasian Finance and Banking Conference, International Risk Management Conference, Korea University, HKUST, Vanderbilt Owen, Yale SOM, Federal Reserve Bank of New York, Federal Reserve Board, Stockholm School of Economics, Federal Reserve Bank of Chicago, Warwick Business School, U of SC Darla Moore, Oxford Said, Imperial College London, HKU, Federal Reserve Board (Pre-Job Market Conference), SoFiE Seminar ([Video](https://www.youtube.com/watch?v=k2d0zeu2a5U)), NYU Stern </font>
- 
-   
+FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference              
+  </font>
+</br>
+
 <details>
-<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/04/does-corporate-hedging-of-foreign-exchange-risk-affect-real-economic-activity/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
-I show that shocks to financial intermediaries that supply hedging instruments to corporations have real effects. I exploit a quasi-natural experiment in South Korea in 2010, where regulations required banks to hold enough capital for taking positions in foreign exchange derivatives (FXD). Using the variation in exposure to this regulation across banks, I find that the regulation caused a reduction in the supply of FXD, leading to a significant decline in exports for firms that held derivatives contracts with more exposed banks. These results indicate the crucial role of intermediaries in allocating risks through the provision of derivatives and establish a causal relationship between financial hedging and real economic outcomes.  
+<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2024/04/physical-climate-risk-and-insurers/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>  
+We construct a novel physical risk factor by forming a portfolio of REITs, long on those with properties more exposed to climate risk and short on those less exposed. Combined with a transition risk factor, we assess the climate risk exposure of P&C and life insurance companies in the U.S. Insurers can be exposed to climate-related physical risk through their operations and transition risk through their $12 trillion of financial asset holdings. We estimate insurers’ dynamic physical and transition climate beta, i.e. their stock return sensitivity to the physical and transition risk factors. Validating our approach, we find that insurers with larger exposures to risky states have a higher sensitivity to physical risk, while insurers holding more brown assets have a higher sensitivity to transition risk. Using the estimated betas, we calculate the expected capital shortfall of insurers under various climate stress scenarios.
 </details>  
-<br/><br/>
+<br/><br/> 
 
-[**CRISK: Measuring the Climate Risk Exposure of the Financial System**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931516)  
-<font size="3"> Co-authors: Robert Engle and Richard Berner </font>   
-**<font size="3"> Accepted at <i><u>Journal of Financial Economics </u></i> </font>**  
-**<font size="3"> Berkeley Haas Sustainability Research Prize Finalist </u></i> </font>**  
+[**U.S. Banks’ Exposures to Climate Transition Risks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411661)  
+<font size="3"> Co-authors: Joao Santos and Lee Seltzer </font> 
 
 <strong>Presentations </strong>  
 <font size="3">
-AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, OU-RFS Climate Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw))  
+Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association, Federal Reserve Board, E-axes Young Scholar's Webinar, CBRT-IFC Workshop*, the Climate and Biodiversity Conference by Banque de France*, Banca d'Italia and the IMF Conference, EFA*     
 </font> 
 <br/>
 
 <details>
-<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/04/crisk-measuring-the-climate-risk-exposure-of-the-financial-system/" style="color: rgb(15, 92, 214);">Blog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/BerkeleyHaasResearchPrizeBrief_JEB.pdf" %}}<span style="color:rgb(15, 92, 214)"> Berkeley Haas Sustainability Research Brief</span></a></strong></summary>
-We develop a market-based methodology to assess banks’ resilience to climate-related risks and study the climate-related risk exposure of large global banks. We introduce a new measure, CRISK, which is the expected capital shortfall of a bank in a climate stress scenario. To estimate CRISK, we construct climate risk factors and dynamically measure banks’ stock return sensitivity (that is, climate beta) to the climate risk factor. We validate the climate risk factor empirically and the climate beta estimates by using granular data on large U.S. banks’ loan portfolios. The measure is useful in quantifying banks’ climate-related risk exposure through the market risk and the credit risk channels.
+<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/07/how-exposed-are-u-s-banks-loan-portfolios-to-climate-transition-risks/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
+We propose a novel approach to estimate banks' credit exposures to transition risks using sectoral effects of climate policies from general equilibrium (GE) models. At worst, estimated exposures reach 14% of bank loan portfolio values. Average exposures drop below 2% after incorporating information on loan payoff structures. Emissions only explain 60% of the variation in our estimated exposure measure, suggesting that our measure captures aspects of transition risk unique to GE models. Consistent with managing their exposures to transition risk, banks joining the Net-Zero Alliance reduced their exposures compared to other banks, mainly by decreasing lending to the riskiest industries.
 </details>  
 <br/><br/>
 
-[**Climate Stress Testing**](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-110921-101555)  
-<font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
-**<font size="3"> <i><u>Annual Review of Financial Economics</u></i> Vol. 15:291-326 </font>**
 
-<strong>Presentations </strong>    
+{{% staticref "files/WP_FwdBasis_HJ.pdf" "newtab" %}}**Deviations from the Law of One Price across Economies** {{% /staticref %}}  
+<font size="3"> Co-author: Jaehoon (Kyle) Jung </font>    
+
+<strong>Presentations </strong>  
 <font size="3">
-  Indian Institute of Management Ahmedabad, Central Bank of Brazil, European Central Bank, IMF
+  WAPFIN @ Stern Conference, Australasian Finance and Banking Conference*, Columbia GSB Finance Ph.D. Seminar, NYU Stern
 </font>
-</br>
+<br/> 
+
 
 <details>
-<summary><strong>View Abstract</strong></summary>
-We explore the design of climate stress tests to assess and manage macro-prudential risks from climate change in the financial sector. We review the climate stress scenarios currently employed by regulators, highlighting the need to (i) consider many transition risks as dynamic policy choices; (ii) better understand and incorporate feedback loops between climate change and the economy; and (iii) further explore "compound risk" scenarios in which climate risks co-occur with other risks. We discuss how the process of mapping climate stress scenarios into financial firm outcomes can incorporate existing evidence on the effects of various climate-related risks on credit and market outcomes. We argue that more research is required to (i) identify channels through which plausible scenarios can lead to meaningful short-run impact on credit risks given typical bank loan maturities; (ii) incorporate bank-lending responses to climate risks; (iii) assess the adequacy of climate risk pricing in financial markets; and (iv) better understand and incorporate the process of expectations formation around the realizations of climate risks. Finally, we discuss the relative advantages and disadvantages of using market-based climate stress tests that can be conducted using publicly available data to complement existing stress testing frameworks.
-</details>  
-<br/><br/>   
+<summary><strong>View Abstract &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/HJ_Poster.pdf" %}}<span style="color:rgb(15, 92, 214)"> AFA Poster</span></a></strong></summary>
+ In a model with agents facing constraints heterogeneous across economies, we provide a novel explanation for an understudied yet economically significant deviation from the Law of One Price across FX forward markets. Specifically, we document a substantial divergence between the exchange rate for locally traded forward contracts and contracts with the same maturity traded outside the jurisdiction of countries during the global financial crisis, and that the magnitudes varied across currencies. The model predicts that (1) the basis increases with the shadow costs of constraints across time and increases with the country-specific FX position limits across countries;  (2) the shadow cost of each constraint non-linearly increases as the intermediary sector's relative performance declines below a threshold; and (3) higher shadow cost of the position limit predicts lower future excess return on local-currency denominated assets, as buying local assets relaxes the FX position limit constraint imposed on the intermediaries. We test the model predictions and find consistent evidence in countries with tight position limits. 
+</details>
+<br/><br/>  
+<font size="3">
+(Presentations including scheduled; * presented by co-author)
+</font>
