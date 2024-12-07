@@ -18,7 +18,6 @@ padding = ["40px", "2px", "40px", "2px"]
 **<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
 <font size="3">
 Job Market Paper  
-Dissertation Committee: Robert Engle (Co-chair), Philipp Schnabl (Co-chair), Ralph Koijen, Alexi Savov, and Joel Hasbrouck </font> 
 
 <strong>Presentations </strong>  
 <font size="3">
