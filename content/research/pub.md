@@ -1,6 +1,6 @@
 +++
 widget = "blank"
-title = "Publications & Forthcoming Papers"
+title = "Publications"
 headless = true
 active = true
 weight = 1
