@@ -17,7 +17,6 @@ padding = ["40px", "2px", "40px", "2px"]
 Job Market Paper  
 **<font size="3"> Accepted at <i><u>Review of Financial Studies </u></i> </font>**    
 **<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
-<font size="3">
 
 <strong>Presentations </strong>  
 <font size="3">
