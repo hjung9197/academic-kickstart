@@ -13,7 +13,7 @@ font_size_max = 0.5
 padding = ["40px", "2px", "40px", "2px"]
 +++
 
-[**Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments**](https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhae066/7831441)  
+[**Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments**](https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhae066/)  
 Job Market Paper  
 **<font size="3"> Accepted at <i><u>Review of Financial Studies </u></i> </font>**    
 **<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
