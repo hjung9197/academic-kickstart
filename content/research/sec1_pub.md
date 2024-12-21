@@ -15,7 +15,7 @@ padding = ["40px", "2px", "40px", "2px"]
 
 [**Real Consequences of Shocks to Intermediaries Supplying Corporate Hedging Instruments**](https://doi.org/10.1093/rfs/hhae066)  
 Job Market Paper  
-**<font size="3"> <i><u>Review of Financial Studies</u></i>, Volume 38, Issue 1, January 2025, Pages 39–113 </font>**        
+<font size="3"> **<i><u>Review of Financial Studies</u></i>**, Volume 38, Issue 1, January 2025, Pages 39–113 </font>        
 **<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
 
 <strong>Presentations </strong>  
