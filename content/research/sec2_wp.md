@@ -20,7 +20,7 @@ padding = ["40px", "2px", "40px", "2px"]
 
 <strong>Presentations </strong>    
 <font size="3">
-FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference              
+FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference, SFS Cavalcade                
   </font>
 </br>
 
