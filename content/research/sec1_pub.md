@@ -19,7 +19,7 @@ Job Market Paper
 **<font size="3"> Financial News & KAFA Top-Journal Paper Award </u></i> </font>**  
 
 <details>
-<summary><strong>Presentations</a></strong><\summary>  
+<summary><strong>Presentations</a></strong></summary>  
 AEA, NBER IFM Meeting, IMF Macro-Financial Research Conference, WEAI-IBEFA Conference, HEC Paris-CEPR Conference, EFA, Bank of Korea, Australasian Finance and Banking Conference, International Risk Management Conference, Korea University, HKUST, Vanderbilt Owen, Yale SOM, Federal Reserve Bank of New York, Federal Reserve Board, Stockholm School of Economics, Federal Reserve Bank of Chicago, Warwick Business School, U of SC Darla Moore, Oxford Said, Imperial College London, HKU, Federal Reserve Board (Pre-Job Market Conference), SoFiE Seminar ([Video](https://www.youtube.com/watch?v=k2d0zeu2a5U)), NYU Stern
 </details>
    
