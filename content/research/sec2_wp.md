@@ -20,9 +20,7 @@ padding = ["40px", "2px", "40px", "2px"]
 
 <strong>Presentations </strong>    
 <font size="3">
-FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference, KU-KAIST Virtual Finance Seminar, SFS Cavalcade, FIRS Conference                  
-  </font>
-</br>
+FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference, KU-KAIST Virtual Finance Seminar, SFS Cavalcade, FIRS Conference </font>
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2024/04/physical-climate-risk-and-insurers/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>  
@@ -30,20 +28,20 @@ We construct a novel physical risk factor by forming a portfolio of REITs, long 
 </details>  
 <br/><br/> 
 
+
 [**U.S. Banks’ Exposures to Climate Transition Risks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411661)  
 <font size="3"> Co-authors: Joao Santos and Lee Seltzer </font> 
 
 <strong>Presentations </strong>  
 <font size="3">
-Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association, Federal Reserve Board, E-axes Young Scholar's Webinar, CBRT-IFC Workshop*, the Climate and Biodiversity Conference by Banque de France*, Banca d'Italia and the IMF Conference, EFA*     
-</font> 
-<br/>
+Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association, Federal Reserve Board, E-axes Young Scholar's Webinar, CBRT-IFC Workshop*, the Climate and Biodiversity Conference by Banque de France*, Banca d'Italia and the IMF Conference, EFA* </font>
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/07/how-exposed-are-u-s-banks-loan-portfolios-to-climate-transition-risks/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
 We propose a novel approach to estimate banks' credit exposures to transition risks using sectoral effects of climate policies from general equilibrium (GE) models. At worst, estimated exposures reach 14% of bank loan portfolio values. Average exposures drop below 2% after incorporating information on loan payoff structures. Emissions only explain 60% of the variation in our estimated exposure measure, suggesting that our measure captures aspects of transition risk unique to GE models. Consistent with managing their exposures to transition risk, banks joining the Net-Zero Alliance reduced their exposures compared to other banks, mainly by decreasing lending to the riskiest industries.
 </details>  
 <br/><br/>
+
 
 [**Credit Card Banking**](https://www.newyorkfed.org/research/staff_reports/sr1143)  
 <font size="3"> Co-authors: Itamar Drechsler, Weiyu Peng, Dominik Supera, and Guanyu Zhou </font> 
@@ -52,7 +50,6 @@ We propose a novel approach to estimate banks' credit exposures to transition ri
 <font size="3">
 Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia* 
 </font> 
-<br/>
 
 <details>
 <summary><strong>View Abstract</a></strong></summary>
@@ -68,8 +65,6 @@ Credit card interest rates, the marginal cost of consumption for nearly half of 
 <font size="3">
   WAPFIN @ Stern Conference, Australasian Finance and Banking Conference*, Columbia GSB Finance Ph.D. Seminar, NYU Stern
 </font>
-<br/> 
-
 
 <details>
 <summary><strong>View Abstract &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/HJ_Poster.pdf" %}}<span style="color:rgb(15, 92, 214)"> AFA Poster</span></a></strong></summary>
