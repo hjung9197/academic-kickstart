@@ -55,11 +55,12 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 <font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
 **<font size="3"> <i><u>Annual Review of Financial Economics</u></i> Vol. 15:291-326 </font>**
 
+<details>
 <strong>Presentations </strong>    
 <font size="3">
   Indian Institute of Management Ahmedabad, Central Bank of Brazil, European Central Bank, IMF
 </font>
-
+</details>
 
 <details>
 <summary><strong>View Abstract</strong></summary>
