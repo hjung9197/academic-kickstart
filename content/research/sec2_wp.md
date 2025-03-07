@@ -43,7 +43,7 @@ We propose a novel approach to estimate banks' credit exposures to transition ri
 <br/><br/>
 
 
-[**Credit Card Banking**](https://www.newyorkfed.org/research/staff_reports/sr1143)  
+[**Credit Card Banking**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169910)  
 <font size="3"> Co-authors: Itamar Drechsler, Weiyu Peng, Dominik Supera, and Guanyu Zhou </font> 
 
 <strong>Presentations </strong>  
