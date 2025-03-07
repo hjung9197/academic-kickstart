@@ -45,6 +45,21 @@ We propose a novel approach to estimate banks' credit exposures to transition ri
 </details>  
 <br/><br/>
 
+[**Credit Card Banking**](https://www.newyorkfed.org/research/staff_reports/sr1143)  
+<font size="3"> Co-authors: Itamar Drechsler, Weiyu Peng, Dominik Supera, and Guanyu Zhou </font> 
+
+<strong>Presentations </strong>  
+<font size="3">
+Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia* 
+</font> 
+<br/>
+
+<details>
+<summary><strong>View Abstract  
+Credit card interest rates, the marginal cost of consumption for nearly half of households, currently average 23 percent, far exceeding the rates on any other major type of loan or bond. Why are these rates so high? To understand this, and the economics of credit card banking more generally, we analyze regulatory account-level data on 330 million monthly accounts, representing 90 percent of the US credit card market. Default rates are relatively high at around 5 percent, but explain only a fraction of cards’ rates. Non-interest expenses and rewards payments are more than offset by interchange and non-interest income. Operating expenses, such as marketing, are very large, and are used to generate pricing power. Deducting them, we find that credit card lending still earns a 6.8 percent return on assets (ROA), more than four times the banking sector’s ROA. Using the cross section of accounts by FICO score, we estimate that credit card rates price in a 5.3 percent default risk premium, which we show is comparable to the one in high-yield bonds. Adjusting for this, we estimate that card lending still earns a 1.17 percent to 1.44 percent “alpha” relative to the overall banking sector.
+</details>  
+<br/><br/>
+
 
 {{% staticref "files/WP_FwdBasis_HJ.pdf" "newtab" %}}**Deviations from the Law of One Price across Economies** {{% /staticref %}}  
 <font size="3"> Co-author: Jaehoon (Kyle) Jung </font>    
