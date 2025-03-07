@@ -37,15 +37,15 @@ I show that shocks to financial intermediaries that supply hedging instruments t
 
 <strong>Presentations </strong>  
 <font size="3">
-AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, OU-RFS Climate Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw))  
-</font> 
-<br/>
+AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, OU-RFS Climate Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw)) </font> 
+
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/04/crisk-measuring-the-climate-risk-exposure-of-the-financial-system/" style="color: rgb(15, 92, 214);">Blog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/BerkeleyHaasResearchPrizeBrief_JEB.pdf" %}}<span style="color:rgb(15, 92, 214)"> Berkeley Haas Sustainability Research Brief</span></a></strong></summary>
 We develop a market-based methodology to assess banks’ resilience to climate-related risks and study the climate-related risk exposure of large global banks. We introduce a new measure, CRISK, which is the expected capital shortfall of a bank in a climate stress scenario. To estimate CRISK, we construct climate risk factors and dynamically measure banks’ stock return sensitivity (that is, climate beta) to the climate risk factor. We validate the climate risk factor empirically and the climate beta estimates by using granular data on large U.S. banks’ loan portfolios. The measure is useful in quantifying banks’ climate-related risk exposure through the market risk and the credit risk channels.
 </details>  
 <br/><br/>
+
 
 [**Climate Stress Testing**](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-110921-101555)  
 <font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
@@ -55,7 +55,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 <font size="3">
   Indian Institute of Management Ahmedabad, Central Bank of Brazil, European Central Bank, IMF
 </font>
-</br>
+
 
 <details>
 <summary><strong>View Abstract</strong></summary>
