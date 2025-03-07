@@ -38,14 +38,14 @@ I show that shocks to financial intermediaries that supply hedging instruments t
 **<font size="3"> Berkeley Haas Sustainability Research Prize Finalist </u></i> </font>**  
 
 <details>
-<summary><strong>Presentations</a></strong></summary>  
+<summary>Presentations</summary>  
 <font size="3">
 AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, OU-RFS Climate Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw)) 
 </font>
 </details>  
 
 <details>
-<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/04/crisk-measuring-the-climate-risk-exposure-of-the-financial-system/" style="color: rgb(15, 92, 214);">Blog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/BerkeleyHaasResearchPrizeBrief_JEB.pdf" %}}<span style="color:rgb(15, 92, 214)"> Berkeley Haas Sustainability Research Brief</span></a></strong></summary>
+<summary>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/04/crisk-measuring-the-climate-risk-exposure-of-the-financial-system/" style="color: rgb(15, 92, 214);">Blog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/BerkeleyHaasResearchPrizeBrief_JEB.pdf" %}}<span style="color:rgb(15, 92, 214)"> Berkeley Haas Sustainability Research Brief</span></a></summary>
 We develop a market-based methodology to assess banks’ resilience to climate-related risks and study the climate-related risk exposure of large global banks. We introduce a new measure, CRISK, which is the expected capital shortfall of a bank in a climate stress scenario. To estimate CRISK, we construct climate risk factors and dynamically measure banks’ stock return sensitivity (that is, climate beta) to the climate risk factor. We validate the climate risk factor empirically and the climate beta estimates by using granular data on large U.S. banks’ loan portfolios. The measure is useful in quantifying banks’ climate-related risk exposure through the market risk and the credit risk channels.
 </details>  
 <br/><br/>
@@ -56,14 +56,14 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 **<font size="3"> <i><u>Annual Review of Financial Economics</u></i> Vol. 15:291-326 </font>**
 
 <details>
-<summary><strong>Presentations</a></strong></summary>
+<summary>Presentations</summary>
 <font size="3">
   Indian Institute of Management Ahmedabad, Central Bank of Brazil, European Central Bank, IMF
 </font>
 </details>
 
 <details>
-<summary><strong>View Abstract</strong></summary>
+<summary>View Abstract</summary>
 We explore the design of climate stress tests to assess and manage macro-prudential risks from climate change in the financial sector. We review the climate stress scenarios currently employed by regulators, highlighting the need to (i) consider many transition risks as dynamic policy choices; (ii) better understand and incorporate feedback loops between climate change and the economy; and (iii) further explore "compound risk" scenarios in which climate risks co-occur with other risks. We discuss how the process of mapping climate stress scenarios into financial firm outcomes can incorporate existing evidence on the effects of various climate-related risks on credit and market outcomes. We argue that more research is required to (i) identify channels through which plausible scenarios can lead to meaningful short-run impact on credit risks given typical bank loan maturities; (ii) incorporate bank-lending responses to climate risks; (iii) assess the adequacy of climate risk pricing in financial markets; and (iv) better understand and incorporate the process of expectations formation around the realizations of climate risks. Finally, we discuss the relative advantages and disadvantages of using market-based climate stress tests that can be conducted using publicly available data to complement existing stress testing frameworks.
 </details>  
 <br/><br/>   
