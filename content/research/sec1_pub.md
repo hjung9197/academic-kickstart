@@ -56,7 +56,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 **<font size="3"> <i><u>Annual Review of Financial Economics</u></i> Vol. 15:291-326 </font>**
 
 <details>
-<strong>Presentations </strong>    
+<summary><strong>Presentations</a></strong></summary>
 <font size="3">
   Indian Institute of Management Ahmedabad, Central Bank of Brazil, European Central Bank, IMF
 </font>
