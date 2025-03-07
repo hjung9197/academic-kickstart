@@ -23,7 +23,7 @@ Job Market Paper
 <font size="3">
 AEA, NBER IFM Meeting, IMF Macro-Financial Research Conference, WEAI-IBEFA Conference, HEC Paris-CEPR Conference, EFA, Bank of Korea, Australasian Finance and Banking Conference, International Risk Management Conference, Korea University, HKUST, Vanderbilt Owen, Yale SOM, Federal Reserve Bank of New York, Federal Reserve Board, Stockholm School of Economics, Federal Reserve Bank of Chicago, Warwick Business School, U of SC Darla Moore, Oxford Said, Imperial College London, HKU, Federal Reserve Board (Pre-Job Market Conference), SoFiE Seminar ([Video](https://www.youtube.com/watch?v=k2d0zeu2a5U)), NYU Stern
 </font>
-</details>
+</details>  
    
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/04/does-corporate-hedging-of-foreign-exchange-risk-affect-real-economic-activity/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
@@ -37,10 +37,12 @@ I show that shocks to financial intermediaries that supply hedging instruments t
 **<font size="3"> Accepted at <i><u>Journal of Financial Economics </u></i> </font>**  
 **<font size="3"> Berkeley Haas Sustainability Research Prize Finalist </u></i> </font>**  
 
-<strong>Presentations </strong>  
+<details>
+<summary><strong>Presentations</a></strong></summary>  
 <font size="3">
-AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, OU-RFS Climate Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw)) </font> 
-
+AEA, Paris December Finance Meeting, UN PRI Academic Network Week, OFR Climate Implications for Financial Stability Conference, CEBRA, EFA, International Journal of Central Banking Conference, Cornell University ESG Investing Research Conference, Banco de Portugal Conference on Financial Intermediation, OCC Symposium, ESRB Workshop, NY Fed-Columbia University Conference, System Climate Meeting by the Federal Reserve Bank of San Francisco, OU-RFS Climate Conference, Federal Reserve Board, Banque de France Workshop, ESSEC-Amundi Chair Webinar, Federal Reserve Bank of Richmond, Australasian Finance and Banking Conference*, (EC)^2 Conference, European Central Bank, MIT GCFP Conference, Central Bank of Chile Workshop, Federal Reserve Stress Testing Research Conference, Federal Reserve Bank of New York, IFABS Oxford Conference, Green Swan Conference*, EBA EAIA Seminar*, Volatility and Risk Institute Conference ([Video](https://www.youtube.com/watch?v=fvnzrdnlSpw)) 
+</font>
+</details>  
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/04/crisk-measuring-the-climate-risk-exposure-of-the-financial-system/" style="color: rgb(15, 92, 214);">Blog&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {{% staticref "files/BerkeleyHaasResearchPrizeBrief_JEB.pdf" %}}<span style="color:rgb(15, 92, 214)"> Berkeley Haas Sustainability Research Brief</span></a></strong></summary>
