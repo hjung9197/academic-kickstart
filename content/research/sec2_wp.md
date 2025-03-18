@@ -16,7 +16,7 @@ padding = ["40px", "2px", "40px", "2px"]
 
 [**Physical Climate Risk Factors and an Application to Measuring Insurers’ Climate Risk Exposure**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4510592)  
 <font size="3"> Co-authors: Robert Engle, Shan Ge, and Xuran Zeng </font>  
-<font size="3"> **Invited for <i><u> Review of Financial Studies </u></i> Dual Submission** </font> 
+<font size="3"> **Revise and Resubmit at <i><u> Review of Financial Studies </u></i>** </font> 
 
 <strong>Presentations </strong>    
 <font size="3">
