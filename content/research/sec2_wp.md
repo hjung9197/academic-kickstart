@@ -20,7 +20,7 @@ padding = ["40px", "2px", "40px", "2px"]
 
 <strong>Presentations </strong>    
 <font size="3">
-FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference on Energy and Climate Economics, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Initiative on Sustainable Finance Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Climate Conference, KU-KAIST Virtual Finance Seminar, SFS Cavalcade, FIRS Conference, SoFiE Summer School </font>
+FHFA Econ Summit, System Banking Conference by the Federal Reserve Board, Financial Stability Conference by the Cleveland Fed and the OFR, NY Fed, Central Bank of Chile Annual Conference ([Video](https://www.youtube.com/watch?v=7D9j4a5iufo)), Greater New York Finance Women Symposium*, Midwest Finance Association Meeting, Federal Reserve Board*, Baruch Conference* (Poster), CESifo Conference, Columbia, ZEW Conference, WEAI-IBEFA Conference, Banca d'Italia and the IMF Conference, Volatility and Risk Institute Conference*, Yale Symposium, Stanford Institute for Theoretical Economics Conference, WE ARE IN Macroeconomics and Finance Conference, OU-RFS Conference, KU-KAIST Virtual Finance Seminar, SFS Cavalcade, FIRS Conference, SoFiE Summer School </font>
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2024/04/physical-climate-risk-and-insurers/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>  
@@ -34,7 +34,7 @@ We construct a novel physical risk factor by forming a portfolio of REITs, long 
 
 <strong>Presentations </strong>  
 <font size="3">
-Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association, Federal Reserve Board, E-axes Young Scholar's Webinar, CBRT-IFC Workshop*, the Climate and Biodiversity Conference by Banque de France*, Banca d'Italia and the IMF Conference, EFA* </font>
+Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association, Federal Reserve Board, E-axes Young Scholar's Webinar, CBRT-IFC Workshop*, the Banque de France Conference*, Banca d'Italia and the IMF Conference, EFA* </font>
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/07/how-exposed-are-u-s-banks-loan-portfolios-to-climate-transition-risks/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
