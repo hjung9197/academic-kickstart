@@ -53,7 +53,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 
 [**Climate Stress Testing**](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-110921-101555)  
 <font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
-**<font size="3"> <i><u>Annual Review of Financial Economics</u></i> Vol. 15:291-326 </font>**
+**<font size="3"> <i><u>Annual Review of Financial Economics</u></i> </font>** Vol. 15:291-326  
 
 <details>
 <summary>Presentations</summary>
