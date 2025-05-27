@@ -34,7 +34,7 @@ I show that shocks to financial intermediaries that supply hedging instruments t
 
 [**CRISK: Measuring the Climate Risk Exposure of the Financial System**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931516)  
 <font size="3"> Co-authors: Robert Engle and Richard Berner </font>   
-<font size="3"> **<i><u>Journal of Financial Economics </u></i>**, Volume 171, 2025, 104076 </font>   
+<font size="3"> **<i><u>Journal of Financial Economics</u></i>**, Volume 171, 2025, 104076 </font>   
 **<font size="3"> Berkeley Haas Sustainability Research Prize Finalist </u></i> </font>**  
 
 <details>
