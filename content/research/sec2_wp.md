@@ -48,7 +48,7 @@ We propose a novel approach to estimate banks' credit exposures to transition ri
 
 <strong>Presentations </strong>  
 <font size="3">
-Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia*, NBER Financial Market Frictions and Systemic Risks*, SFS Cavalcade, FIRS Conference, EFA*, NBER Summer Institute*, System Conference on Financial Institutions, Regulation, and Markets   
+Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia*, NBER Financial Market Frictions and Systemic Risks*, SFS Cavalcade, FIRS Conference, EFA*, NBER Summer Institute*, System Conference on Financial Institutions, Regulation, and Markets, WE_ARE_IN Macroeconomics and Finance Conference     
 </font> 
 <br/>
 <strong>Media Interview </strong>  
