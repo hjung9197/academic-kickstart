@@ -63,6 +63,22 @@ Credit card interest rates, the marginal cost of consumption for nearly half of 
 <br/><br/>
 
 
+[**Economics of Property Insurance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804802)  
+<font size="3"> Co-authors: Jaehoon (Kyle) Jung  </font> 
+
+<strong>Presentations </strong>  
+<font size="3">
+Beachside Banking Chat     
+</font> 
+
+
+<details>
+<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/" style="color: rgb(15, 92, 214);">Blog</a></a></strong></summary>
+We study the economics of homeowners' property insurance by examining how contract design balances the trade-off between incentive alignment and risk sharing. Using granular contract-level property insurance data merged with property-level disaster risk for millions of U.S. households, we develop and structurally estimate a model in which insurers optimally determine contract terms given property risk and household risk preferences. The estimates provide, to our knowledge, the first large-scale contract-level structural measures of risk aversion, risk premia, and the cost of moral hazard, allowing us to quantify how disaster risk is allocated between insurers and households. We find that the cost of moral hazard is small, yet the very mechanism used to mitigate it substantially increases households' exposure to disaster risk: contract design leaves policyholders exposed to roughly 29 percent of total expected losses. This residual exposure is most pronounced for low-FICO households and for properties with the greatest tail risk. Counterfactuals indicate that mandating full insurance would lead to substantial market exit, increasing household vulnerability. We further show that insurers' financial constraints are systematically correlated with the riskiness of underwritten properties and with household characteristics.
+</details>  
+<br/><br/>
+
+
 {{% staticref "files/WP_FwdBasis_HJ.pdf" "newtab" %}}**Deviations from the Law of One Price across Economies** {{% /staticref %}}  
 <font size="3"> Co-author: Jaehoon (Kyle) Jung </font>    
 
