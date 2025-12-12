@@ -70,6 +70,11 @@ Credit card interest rates, the marginal cost of consumption for nearly half of 
 <font size="3">
 Beachside Banking Chat     
 </font> 
+<br/>
+<strong>Coverage </strong>  
+<font size="3">
+Hutchins Roundup by Brookings Institution
+</font> 
 
 
 <details>
