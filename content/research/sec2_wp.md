@@ -68,7 +68,7 @@ Credit card interest rates, the marginal cost of consumption for nearly half of 
 
 <strong>Presentations </strong>  
 <font size="3">
-Beachside Banking Chat, NYU Stern Finance QFE Seminar, Federal Reserve Bank of New York       
+Beachside Banking Chat, NYU Stern Finance QFE Seminar, Federal Reserve Bank of New York, Mid-Atlantic Research Conference in Finance       
 </font> 
 <br/>
 <strong>Coverage </strong>  
