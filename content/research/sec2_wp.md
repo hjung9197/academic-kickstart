@@ -64,7 +64,7 @@ Credit card interest rates, the marginal cost of consumption for nearly half of 
 
 
 [**Economics of Property Insurance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804802)  
-<font size="3"> Co-authors: Jaehoon (Kyle) Jung  </font> 
+<font size="3"> Co-authors: Jaehoon (Kyle) Jung  </font>   
 **<font size="3"> MARC Best Paper Award </u></i> </font>**  
 
 <strong>Presentations </strong>  
