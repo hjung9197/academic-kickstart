@@ -64,7 +64,7 @@ Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserv
 
 <details>
 <summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/07/how-exposed-are-u-s-banks-loan-portfolios-to-climate-transition-risks/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
-We propose a novel approach to estimate banks' credit exposures to transition risks using sectoral effects of climate policies from general equilibrium (GE) models. At worst, estimated exposures reach 14% of bank loan portfolio values. Average exposures drop below 2% after incorporating information on loan payoff structures. Emissions only explain 60% of the variation in our estimated exposure measure, suggesting that our measure captures aspects of transition risk unique to GE models. Consistent with managing their exposures to transition risk, banks joining the Net-Zero Alliance reduced their exposures compared to other banks, mainly by decreasing lending to the riskiest industries.
+We propose a new approach to estimate banks’ credit exposures to transition risks that combines sectoral effects of climate policies from general equilibrium (GE) models with historical information on loans’ default risks. At worst, estimated exposures reach 14% of bank loan portfolio values. Accounting for historic loan payoff structures reduces exposures to 0.5%–2%. Exposures can increase by 3–5 percentage points due to aggregate economic shocks. Analyses surrounding climate transition events suggest our estimates can serve as an upper bound on banks’ transition risk exposures. Highlighting our measure’s novelty, emissions explain at most 60% of variation in banks’ exposures.
 </details>  
 <br/><br/>
 
