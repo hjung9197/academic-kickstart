@@ -29,26 +29,6 @@ We construct a novel physical risk factor by forming a portfolio of REITs, long 
 <br/><br/> 
 
 
-[**Credit Card Banking**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169910)  
-<font size="3"> Co-authors: Itamar Drechsler, Weiyu Peng, Dominik Supera, and Guanyu Zhou </font> 
-
-<strong>Presentations </strong>  
-<font size="3">
-Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia*, NBER Financial Market Frictions and Systemic Risks*, SFS Cavalcade, FIRS Conference, EFA*, NBER Summer Institute*, System Conference on Financial Institutions, Regulation, and Markets, WE ARE IN Macroeconomics and Finance Conference     
-</font> 
-<br/>
-<strong>Media Interview </strong>  
-<font size="3">
-Faculti ([Video](https://doi.org/10.64240/7337244c16))
-</font> 
-
-<details>
-<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/" style="color: rgb(15, 92, 214);">Blog</a></a></strong></summary>
-Credit card interest rates, the marginal cost of consumption for nearly half of households, currently average 23 percent, far exceeding the rates on any other major type of loan or bond. Why are these rates so high? To understand this, and the economics of credit card banking more generally, we analyze regulatory account-level data on 330 million monthly accounts, representing 90 percent of the US credit card market. Default rates are relatively high at around 5 percent, but explain only a fraction of cards’ rates. Non-interest expenses and rewards payments are more than offset by interchange and non-interest income. Operating expenses, such as marketing, are very large, and are used to generate pricing power. Deducting them, we find that credit card lending still earns a 6.8 percent return on assets (ROA), more than four times the banking sector’s ROA. Using the cross section of accounts by FICO score, we estimate that credit card rates price in a 5.3 percent default risk premium, which we show is comparable to the one in high-yield bonds. Adjusting for this, we estimate that card lending still earns a 1.17 percent to 1.44 percent “alpha” relative to the overall banking sector.
-</details>  
-<br/><br/>
-
-
 [**Economics of Property Insurance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804802)  
 <font size="3"> Co-authors: Jaehoon (Kyle) Jung  </font>   
 **<font size="3"> Best Paper Award, Mid-Atlantic Research Conference in Finance </u></i> </font>**  
@@ -69,6 +49,27 @@ Hutchins Roundup by Brookings Institution
 We study the economics of homeowners' property insurance by examining how contract design balances the trade-off between incentive alignment and risk sharing. Using granular contract-level property insurance data merged with property-level disaster risk for millions of U.S. households, we develop and structurally estimate a model in which insurers optimally determine contract terms given property risk and household risk preferences. The estimates provide, to our knowledge, the first large-scale contract-level structural measures of risk aversion, risk premia, and the cost of moral hazard, allowing us to quantify how disaster risk is allocated between insurers and households. We find that the cost of moral hazard is small, yet the very mechanism used to mitigate it substantially increases households' exposure to disaster risk: contract design leaves policyholders exposed to roughly 29 percent of total expected losses. This residual exposure is most pronounced for low-FICO households and for properties with the greatest tail risk. Counterfactuals indicate that mandating full insurance would lead to substantial market exit, increasing household vulnerability. We further show that insurers' financial constraints are systematically correlated with the riskiness of underwritten properties and with household characteristics.
 </details>  
 <br/><br/>
+
+
+[**Credit Card Banking**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169910)  
+<font size="3"> Co-authors: Itamar Drechsler, Weiyu Peng, Dominik Supera, and Guanyu Zhou </font> 
+
+<strong>Presentations </strong>  
+<font size="3">
+Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia*, NBER Financial Market Frictions and Systemic Risks*, SFS Cavalcade, FIRS Conference, EFA*, NBER Summer Institute*, System Conference on Financial Institutions, Regulation, and Markets, WE ARE IN Macroeconomics and Finance Conference     
+</font> 
+<br/>
+<strong>Media Interview </strong>  
+<font size="3">
+Faculti ([Video](https://doi.org/10.64240/7337244c16))
+</font> 
+
+<details>
+<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/" style="color: rgb(15, 92, 214);">Blog</a></a></strong></summary>
+Credit card interest rates, the marginal cost of consumption for nearly half of households, currently average 23 percent, far exceeding the rates on any other major type of loan or bond. Why are these rates so high? To understand this, and the economics of credit card banking more generally, we analyze regulatory account-level data on 330 million monthly accounts, representing 90 percent of the US credit card market. Default rates are relatively high at around 5 percent, but explain only a fraction of cards’ rates. Non-interest expenses and rewards payments are more than offset by interchange and non-interest income. Operating expenses, such as marketing, are very large, and are used to generate pricing power. Deducting them, we find that credit card lending still earns a 6.8 percent return on assets (ROA), more than four times the banking sector’s ROA. Using the cross section of accounts by FICO score, we estimate that credit card rates price in a 5.3 percent default risk premium, which we show is comparable to the one in high-yield bonds. Adjusting for this, we estimate that card lending still earns a 1.17 percent to 1.44 percent “alpha” relative to the overall banking sector.
+</details>  
+<br/><br/>
+
 
 
 {{% staticref "files/WP_FwdBasis_HJ.pdf" "newtab" %}}**Deviations from the Law of One Price across Economies** {{% /staticref %}}  
