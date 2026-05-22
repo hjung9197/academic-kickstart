@@ -51,6 +51,24 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 <br/><br/>
 
 
+[**U.S. Banks’ Exposures to Climate Transition Risks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411661)  
+<font size="3"> Co-authors: Joao Santos and Lee Seltzer </font> 
+<font size="3"> **<i><u>Journal of Financial and Quantitative Analysis</u></i>**</font>   
+
+<details>
+<summary>Presentations</summary>  
+<font size="3">
+Federal Reserve Bank of Cleveland*, System Climate Meeting by the Federal Reserve Bank of San Francisco, OCC Symposium*, IFABS Oxford Conference*, ASSA IBEFA, Stanford Institute for Theoretical Economics Conference, NY Fed-Columbia University Conference*, American Bankers Association, Federal Reserve Board, E-axes Young Scholar's Webinar, CBRT-IFC Workshop*, the Banque de France Conference*, Banca d'Italia and the IMF Conference, EFA* </font>
+</font>
+</details>  
+
+<details>
+<summary><strong>View Abstract&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://libertystreeteconomics.newyorkfed.org/2023/07/how-exposed-are-u-s-banks-loan-portfolios-to-climate-transition-risks/" style="color: rgb(15, 92, 214);">Blog</a></strong></summary>
+We propose a novel approach to estimate banks' credit exposures to transition risks using sectoral effects of climate policies from general equilibrium (GE) models. At worst, estimated exposures reach 14% of bank loan portfolio values. Average exposures drop below 2% after incorporating information on loan payoff structures. Emissions only explain 60% of the variation in our estimated exposure measure, suggesting that our measure captures aspects of transition risk unique to GE models. Consistent with managing their exposures to transition risk, banks joining the Net-Zero Alliance reduced their exposures compared to other banks, mainly by decreasing lending to the riskiest industries.
+</details>  
+<br/><br/>
+
+
 [**Climate Stress Testing**](https://www.annualreviews.org/content/journals/10.1146/annurev-financial-110921-101555)  
 <font size="3"> Co-authors: Viral Acharya, Robert Engle, Richard Berner, Johannes Stroebel, Xuran Zeng, and Yihao Zhao </font>  
 **<font size="3"> <i><u>Annual Review of Financial Economics</u></i> </font>** Vol. 15:291-326  
