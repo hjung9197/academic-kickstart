@@ -52,7 +52,7 @@ We develop a market-based methodology to assess banks’ resilience to climate-r
 
 
 [**U.S. Banks’ Exposures to Climate Transition Risks**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411661)  
-<font size="3"> Co-authors: Joao Santos and Lee Seltzer </font> 
+<font size="3"> Co-authors: Joao Santos and Lee Seltzer </font>   
 <font size="3"> **<i><u>Journal of Financial and Quantitative Analysis</u></i>**</font>   
 
 <details>
