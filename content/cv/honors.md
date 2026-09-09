@@ -22,7 +22,7 @@ weight = 4  # Order that this section will appear in.
 
 ## **Honors**  
 Best Paper Award, Mid-Atlantic Research Conference in Finance (2026)  
-Financial News & KAFA Top-Journal Paper Award (2024)  
+Top-Journal Paper Award, Financial News & KAFA (2024)  
 Berkeley Haas Sustainability Research Prize Finalist (2023)  
 Research Grant (Award # 2218455), National Science Foundation (2022)  
 Research Grant, Inter-American Development Bank and Volatility and Risk Institute, NYU Stern (2021)  
