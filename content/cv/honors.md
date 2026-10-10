@@ -21,6 +21,7 @@ weight = 4  # Order that this section will appear in.
 +++
 
 ## **Honors**  
+Young Scholar Award, Shinhan Bank & KAFA (2026). 
 Best Paper Award, Mid-Atlantic Research Conference in Finance (2026)  
 Top-Journal Paper Award, Financial News & KAFA (2024)  
 Berkeley Haas Sustainability Research Prize Finalist (2023)  
