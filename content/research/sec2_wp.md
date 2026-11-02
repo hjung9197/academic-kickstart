@@ -59,9 +59,9 @@ We study the economics of homeowners' property insurance by examining how contra
 Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia*, NBER Financial Market Frictions and Systemic Risks*, SFS Cavalcade, FIRS Conference, EFA*, NBER Summer Institute*, System Conference on Financial Institutions, Regulation, and Markets, WE ARE IN Macroeconomics and Finance Conference     
 </font> 
 <br/>
-<strong>Media Interview </strong>  
+<strong>Coverage & Media Interview </strong>  
 <font size="3">
-Faculti ([Video](https://doi.org/10.64240/7337244c16))
+Faculti ([Video](https://doi.org/10.64240/7337244c16)), <a href="https://www.nber.org/sites/default/files/2026-10/nov26.pdf">NBER Digest</a>
 </font> 
 
 <details>
