@@ -40,7 +40,7 @@ Beachside Banking Chat, NYU Stern Finance QFE Seminar, Federal Reserve Bank of N
 <br/>
 <strong>Coverage </strong>  
 <font size="3">
-<a href="https://connect.brookings.edu/hutchins-roundup-college-enrollment-responses-to-inflation-and-more?_gl=1*dtjx1t*_ga*MTAwMDQ3MzgzOC4xNzkwNjA3OTg3*_ga_PQL1XY12X1*czE3OTM2NTMzMTAkbzMkZzEkdDE3OTM2NTM0OTgkajYwJGwwJGgw">Hutchins Roundup by Brookings Institution</a>
+<a href="https://connect.brookings.edu/hutchins-roundup-college-enrollment-responses-to-inflation-and-more?_gl=1*dtjx1t*_ga*MTAwMDQ3MzgzOC4xNzkwNjA3OTg3*_ga_PQL1XY12X1*czE3OTM2NTMzMTAkbzMkZzEkdDE3OTM2NTM0OTgkajYwJGwwJGgw" style="color: rgb(15, 92, 214);">Hutchins Roundup by Brookings Institution</a>
 </font> 
 
 
