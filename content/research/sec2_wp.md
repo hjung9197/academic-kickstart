@@ -61,7 +61,7 @@ Federal Reserve Bank of New York, Wharton*, Federal Reserve Bank of Philadelphia
 <br/>
 <strong>Coverage & Media Interview </strong>  
 <font size="3">
-Faculti ([Video](https://doi.org/10.64240/7337244c16)), <a href="https://www.nber.org/sites/default/files/2026-10/nov26.pdf">NBER Digest</a>
+Faculti ([Video](https://doi.org/10.64240/7337244c16)), <a href="https://www.nber.org/sites/default/files/2026-10/nov26.pdf"  style="color: rgb(15, 92, 214);">NBER Digest</a>
 </font> 
 
 <details>
