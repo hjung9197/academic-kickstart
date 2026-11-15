@@ -38,9 +38,9 @@ We construct a novel physical risk factor by forming a portfolio of REITs, long 
 Beachside Banking Chat, NYU Stern Finance QFE Seminar, Federal Reserve Bank of New York, Mid-Atlantic Research Conference in Finance, Bocconi-CEPR Finance Workshop on Asset Pricing, Risk Theory Society Annual Seminar*, Esade Spring Workshop, Federal Reserve Bank of Philadelphia Conference on Consumer Finance and Macroeconomics*, SFS Cavalcade*, NBER Insurance Meeting, Baruch-NUS Real Estate Conference, Carnegie Mellon University Economics Seminar*, Finance Theory Group Conference on Bridging Theory and Empirical Research in Finance*, Early Career Women in Finance Conference, System Conference on Financial Institutions, Regulation, and Markets, AFA, Lugano Real Estate and Urban Economics Conference, CUHK-RAPS-RCFS Conference, NYU Stern Accounting Seminar*, Tinbergen Institute Seminar              
 </font> 
 <br/>
-<strong>Coverage </strong>  
+<strong>Coverage & Video </strong>  
 <font size="3">
-<a href="https://connect.brookings.edu/hutchins-roundup-college-enrollment-responses-to-inflation-and-more?_gl=1*dtjx1t*_ga*MTAwMDQ3MzgzOC4xNzkwNjA3OTg3*_ga_PQL1XY12X1*czE3OTM2NTMzMTAkbzMkZzEkdDE3OTM2NTM0OTgkajYwJGwwJGgw" style="color: rgb(15, 92, 214);">Hutchins Roundup by Brookings Institution</a>
+<a href="https://www.linkedin.com/posts/federal-reserve-bank-of-new-york_in-this-video-financial-research-economist-activity-7526705155581353985-SIk7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVtVJwBJ6wq2Whs4lTKN_utzKdidRoCqt4"  style="color: rgb(15, 92, 214);">NY Fed Video</a>, <a href="https://connect.brookings.edu/hutchins-roundup-college-enrollment-responses-to-inflation-and-more?_gl=1*dtjx1t*_ga*MTAwMDQ3MzgzOC4xNzkwNjA3OTg3*_ga_PQL1XY12X1*czE3OTM2NTMzMTAkbzMkZzEkdDE3OTM2NTM0OTgkajYwJGwwJGgw" style="color: rgb(15, 92, 214);">Hutchins Roundup by Brookings Institution</a>
 </font> 
 
 
