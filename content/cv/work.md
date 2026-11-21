@@ -24,10 +24,10 @@ weight = 2  # Order that this section will appear in.
 **Federal Reserve Bank of New York**, New York, NY | 2021- Current  
 Financial Research Economist, Research    
 
-**Princeton University**, Princeton, NJ | 2027 
+**Princeton University**, Princeton, NJ | 2027   
 Visiting Scholar, Department of Economics    
 
-**Yale University, School of Management**, New Haven, CT | 2027 
+**Yale University, School of Management**, New Haven, CT | 2027   
 Visiting Scholar, Finance Department   
 
 **J.P. Morgan**, Singapore, Singapore | 2012- 2015  
