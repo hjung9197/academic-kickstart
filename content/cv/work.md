@@ -20,9 +20,15 @@ weight = 2  # Order that this section will appear in.
   padding = ["40px", "0", "40px", "0"]
 +++
 
-## **Employment**
+## **Employment and Affiliations**
 **Federal Reserve Bank of New York**, New York, NY | 2021- Current  
 Financial Research Economist, Research    
+
+**Princeton University**, Princeton, NJ | 2027 
+Visiting Scholar, Department of Economics    
+
+**Yale University, School of Management**, New Haven, CT | 2027 
+Visiting Scholar, Finance Department   
 
 **J.P. Morgan**, Singapore, Singapore | 2012- 2015  
 Associate, FX & Rates Trading  
